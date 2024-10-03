@@ -1,5 +1,8 @@
 # Typeface lists
 
+* **These are not recommendations!** That takes more work.
+  I might boil down into recommendations later. This is more just
+  a catalogue of stuff I had open in browser tabs.
 * Needs much older material brought in from Quora answer about alternatives to Helvetica.
 * Notes may be wildly incorrect and subjective.
 * Lists are in no particular order, have not been filtered for excellence;
@@ -68,6 +71,7 @@
 * https://www.myfonts.com/collections/ashbury-font-hoftype - caslon-esque
 * https://www.myfonts.com/collections/legitima-font-cesar-puertas - italianate? venetian????? aldine????
 * https://processtypefoundry.com/fonts/elena/ - calligraphic, nice italic
+* https://carterandcone.com/font/miller-text/
 
 ### ENGINEERING FACES
 
@@ -115,6 +119,10 @@
 * https://www.suitcasetype.com/fonts/lipo-text
 * https://processtypefoundry.com/fonts/coordinates/
 
+### UTILITY
+
+* https://frerejones.com/families/retina - small size, data, ink traps
+
 ### MISC
 
 * https://www.fonthaus.com/fonts/monotypeimaging/linotype-sketch/MI35153848 - calligraphic italic, distressed
@@ -125,6 +133,6 @@
 * https://black-foundry.com/fonts/squil/ - lovely fluted humanistic, modulated stroke, text + display
 * https://www.cnap.fr/sites/faune/ - humanist? calligraphic? french !
 * https://www.myfonts.com/products/magnat-text-package-208815 - french !
-* https://processtypefoundry.com/fonts/maple/ - lovely grotesque with those french characteristics too; offspring of Process Grotesque – our retired interpretation of the Stephenson Blake grotesques
+* https://processtypefoundry.com/fonts/maple/ - lovely grotesque with those french characteristics too; "offspring of Process Grotesque – our retired interpretation of the Stephenson Blake grotesques"
 * https://www.myfonts.com/collections/wt-volkolak-font-wraith-types - superfamily; serif, sans
 * https://processtypefoundry.com/fonts/scandia-line/ - line/polygon
