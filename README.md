@@ -25,6 +25,8 @@
 * https://typetype.org/fonts/
 * https://www.colophon-foundry.org/typefaces
 * https://fontstand.com/news/foundry-profiles/mass-driver/
+* https://www.mvbfonts.com/browse/fonts
+* https://studiotype.com/
 
 ### DO NOT USE FOR BODY
 
@@ -37,6 +39,8 @@
 * https://fonts.google.com/specimen/Alegreya+Sans?preview.text=dolphin - humanist sans, lovely italic
 * https://www.type-together.com/playpen-sans-font - handwriting
 * https://djr.com/forma - impressive revival - optical sizes
+* https://www.hvdfonts.com/fonts/supria-sans#
+* https://fonts.google.com/specimen/Varela+Round
 
 ### BOOK SERIFS
 
@@ -72,12 +76,18 @@
 * https://www.myfonts.com/collections/legitima-font-cesar-puertas - italianate? venetian????? aldine????
 * https://processtypefoundry.com/fonts/elena/ - calligraphic, nice italic
 * https://carterandcone.com/font/miller-text/
+* https://www.typotheque.com/blog/william-a-contemporary-interpretation-of-caslon-types
+* https://fonts.google.com/specimen/Libre+Caslon+Text
+* https://www.myfonts.com/collections/founders-caslon-font-itc - caslon revival, optical sizes
+* https://www.myfonts.com/products/espinosa-nova-complete-family-package-316060 - optical sizes
+* https://fonts.google.com/specimen/Spectral
 
 ### ENGINEERING FACES
 
 * https://luc.devroye.org/fonts-80708.html - gorton engraving
 * https://webonastick.com/fonts/routed-gothic/ - revival of gorton
   - links to Bryant https://processtypefoundry.com/fonts/bryant-2/ rounded Wrico
+* https://www.mvbfonts.com/pdfs/SweetSansSpecimen.pdf
 
 ### ALTERNATIVES TO HELVETICA
 
