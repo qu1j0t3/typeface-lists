@@ -3,36 +3,37 @@
 * (Except where I say _do not_), **These are not recommendations!** That takes more work.
   I might boil down into recommendations later. This is more just
   a catalogue of stuff I had open in browser tabs.
-* Needs much older material brought in from Quora answer about alternatives to Helvetica.
+* Needs much older material brought in from my Quora answer about alternatives to Helvetica.
 * Notes may be wildly incorrect and subjective.
 * Lists are in no particular order, have not been filtered for excellence;
   they just include things that I felt were good or interesting enough.
 
 ### FOUNDRIES
 
-* https://newlyn.com/fonts
-* https://www.grillitype.com/typefaces
-* https://djr.com/
-* https://productiontype.com/article/the-nebiolo-foundry-turin-1880-1978
-* https://mailchi.mp/ilovetypography/cohort-4?e=532331a414
-* https://www.latinotype.com/#catalog
-* https://rosettatype.com/fonts/
-* https://www.matterofsorts.com/ - enigmatic australian Vincent Chan
-* https://www.205.tf/
-* https://a2-type.co.uk/
-* https://www.reset-type.com/typeface
-* https://www.suitcasetype.com/fonts
-* https://typetype.org/fonts/
-* https://www.colophon-foundry.org/typefaces
-* https://fontstand.com/news/foundry-profiles/mass-driver/
-* https://www.mvbfonts.com/browse/fonts
-* https://studiotype.com/
-* https://www.typemates.com/
-* https://connary.com/fonts.html
-* https://blackletra.com/
-* https://hottype.co/fonts
-* https://www.sharptype.co/typefaces
-* https://www.herzbergdesign.com/ - some amazing blackletters
+* [newlyn.com](https://newlyn.com/fonts)
+* [www.grillitype.com](https://www.grillitype.com/typefaces)
+* [djr.com](https://djr.com/)
+* [productiontype.com](https://productiontype.com/article/the-nebiolo-foundry-turin-1880-1978)
+* [mailchi.mp](https://mailchi.mp/ilovetypography/cohort-4?e=532331a414)
+* [www.latinotype.com](https://www.latinotype.com/#catalog)
+* [rosettatype.com](https://rosettatype.com/fonts/)
+* [www.matterofsorts.com](https://www.matterofsorts.com/) - enigmatic australian Vincent Chan
+* [www.205.tf](https://www.205.tf/)
+* [a2-type.co.uk](https://a2-type.co.uk/)
+* [www.reset-type.com](https://www.reset-type.com/)
+* [www.suitcasetype.com](https://www.suitcasetype.com/fonts)
+* [typetype.org](https://typetype.org/fonts/)
+* [www.colophon-foundry.org](https://www.colophon-foundry.org/typefaces)
+* [fontstand.com](https://fontstand.com/news/foundry-profiles/mass-driver/)
+* [www.mvbfonts.com](https://www.mvbfonts.com/browse/fonts)
+* [studiotype.com](https://studiotype.com/)
+* [www.typemates.com](https://www.typemates.com/)
+* [connary.com](https://connary.com/fonts.html)
+* [blackletra.com](https://blackletra.com/)
+* [hottype.co](https://hottype.co/fonts)
+* [www.sharptype.co](https://www.sharptype.co/typefaces)
+* [www.herzbergdesign.com](https://www.herzbergdesign.com/) - some amazing blackletters
+* [kontour.com](https://kontour.com/)
 
 ### DO NOT USE FOR BODY
 
@@ -41,139 +42,140 @@
 
 ### UNDER-RATED SANS
 
-* https://www.schick-toikka.com/dia - lovely grotesque
-* https://fonts.google.com/specimen/Alegreya+Sans?preview.text=dolphin - humanist sans, lovely italic
-* https://www.type-together.com/playpen-sans-font - handwriting
-* https://djr.com/forma - impressive revival - optical sizes
-* https://www.hvdfonts.com/fonts/supria-sans#
-* https://fonts.google.com/specimen/Varela+Round
-* https://seravek.com/
-* https://fontstand.com/fonts/micrograph
-* https://connary.com/greycliff.html
-* https://connary.com/artifexhand.html
-* https://halyard.dardenstudio.com/#welcome
+* [www.schick-toikka.com/dia](https://www.schick-toikka.com/dia) - lovely grotesque
+* [fonts.google.com/specimen/Alegreya+Sans?preview.text=dolphin](https://fonts.google.com/specimen/Alegreya+Sans?preview.text=dolphin) - humanist sans, lovely italic
+* [www.type-together.com/playpen-sans-font](https://www.type-together.com/playpen-sans-font) - handwriting
+* [djr.com/forma](https://djr.com/forma) - impressive revival - optical sizes
+* [www.hvdfonts.com/fonts/supria-sans#](https://www.hvdfonts.com/fonts/supria-sans#)
+* [fonts.google.com/specimen/Varela+Round](https://fonts.google.com/specimen/Varela+Round)
+* [seravek.com/](https://seravek.com/)
+* [fontstand.com/fonts/micrograph](https://fontstand.com/fonts/micrograph)
+* [connary.com/greycliff.html](https://connary.com/greycliff.html)
+* [connary.com/artifexhand.html](https://connary.com/artifexhand.html)
+* [halyard.dardenstudio.com/#welcome](https://halyard.dardenstudio.com/#welcome)
 
 ### BOOK SERIFS
 
-* https://okaytype.com/harriet#specimens - revives Baskerville via Scotch Romans
-* https://legacy.lineto.com/ ; https://lineto.com/typefaces/bradford/ - LL Bradford - revives Plantinesques
-* https://fonts.google.com/specimen/Crimson+Pro
-* https://fonts.google.com/specimen/Old+Standard+TT - Century, condensed-ish
-* https://www.type-together.com/ploquine-font - elegant slab serif
-* https://www.fatype.com/typefaces/make - Plantin inspired
-* https://www.julytype.com/typefaces/jt-peleton
-* https://www.typotheque.com/fonts/nocturno - great, egyptian/plantinesque
-* https://www.dstype.com/fonts/bluteau-pro - optical sizes
-* https://store.typenetwork.com/foundry/orangeitalic/series/farnham - nice optical sizes
-* https://www.typemates.com/fonts/meret - compact, newspaper
-* https://www.typemates.com/fonts/pensum-pro - lovely book face
-* https://www.suitcasetype.com/fonts/teimer/styles - stunning didone
-* https://www.suitcasetype.com/fonts/crabath - gorgeous garamondesque - optical sizes
-* https://www.suitcasetype.com/fonts/icona-serif - a plantin ?
-* https://commercialtype.com/catalog/duplicate_ionic - clarendon, compact
-* https://fontreviewjournal.com/galaxie-copernicus/ - outstanding plantin revival
-* https://www.type-together.com/literata-font - superfamily, optical sizes
-* https://productiontype.com/font/gamuth/gamuth-text - “dutch baroque”
-* https://www.myfonts.com/collections/ingeborg-font-typejockeys - display and text, didone
-* https://www.typography.com/fonts/chronicle-text/overview - “blended scotch”
-* https://www.myfonts.com/collections/fulmar-font-cast/ - “modern scotch”
-* https://www.myfonts.com/collections/calvino-font-zetafonts - garalde; text/display
-* https://www.myfonts.com/collections/passenger-serif-font-indian-type-foundry - clarendon
-* https://fonts.google.com/specimen/Neuton - compact, robust, monolinear
-* https://commercialtype.com/catalog/canela/canela - caslon... transitional...
-* https://www.myfonts.com/products/sole-serif-complete-family-package-76428 - optical sizes, handsome, robust
-* https://www.myfonts.com/collections/garalda-font-type-together - elegant garamond revival
-* https://www.myfonts.com/collections/ashbury-font-hoftype - caslon-esque
-* https://www.myfonts.com/collections/legitima-font-cesar-puertas - italianate? venetian????? aldine????
-* https://processtypefoundry.com/fonts/elena/ - calligraphic, nice italic
-* https://carterandcone.com/font/miller-text/
-* https://www.typotheque.com/blog/william-a-contemporary-interpretation-of-caslon-types
-* https://fonts.google.com/specimen/Libre+Caslon+Text
-* https://www.myfonts.com/collections/founders-caslon-font-itc - caslon revival, optical sizes
-* https://www.myfonts.com/products/espinosa-nova-complete-family-package-316060 - optical sizes
-* https://fonts.google.com/specimen/Spectral
-* https://www.myfonts.com/collections/abril-titling-font-type-together (actually display)
-* https://typetura.com/blog/showcasing-roslindale-specimen-microsite/ - optical sizes
-* https://www.myfonts.com/collections/tasman-font-re-type
-* https://www.myfonts.com/collections/fs-brabo-paneuropean-font-fontsmith
-* https://www.myfonts.com/collections/yoga-pro-font-fontfont
-* https://www.myfonts.com/collections/preto-serif-ot-std-font-dizajndesign
-* https://connary.com/artifex.html
-* https://blackletra.com/typefaces/drummond
-* https://www.myfonts.com/collections/olympian-font-linotype - Matthew Carter
-* https://www.herzbergdesign.com/thanatos - optical sizes
-* https://artifyassets.com/nicholas-font-family-a-modern-classic-from-shinntype/
-* https://www.zetafonts.com/calvino
+* [okaytype.com/harriet#specimens](https://okaytype.com/harriet#specimens) - revives Baskerville via Scotch Romans
+* [legacy.lineto.com/](https://legacy.lineto.com/) ; https://lineto.com/typefaces/bradford/ - LL Bradford - revives Plantinesques
+* [fonts.google.com/specimen/Crimson+Pro](https://fonts.google.com/specimen/Crimson+Pro)
+* [fonts.google.com/specimen/Old+Standard+TT](https://fonts.google.com/specimen/Old+Standard+TT) - Century, condensed-ish
+* [www.type-together.com/ploquine-font](https://www.type-together.com/ploquine-font) - elegant slab serif
+* [www.fatype.com/typefaces/make](https://www.fatype.com/typefaces/make) - Plantin inspired
+* [www.julytype.com/typefaces/jt-peleton](https://www.julytype.com/typefaces/jt-peleton)
+* [www.typotheque.com/fonts/nocturno](https://www.typotheque.com/fonts/nocturno) - great, egyptian/plantinesque
+* [www.dstype.com/fonts/bluteau-pro](https://www.dstype.com/fonts/bluteau-pro) - optical sizes
+* [store.typenetwork.com/foundry/orangeitalic/series/farnham](https://store.typenetwork.com/foundry/orangeitalic/series/farnham) - nice optical sizes
+* [www.typemates.com/fonts/meret](https://www.typemates.com/fonts/meret) - compact, newspaper
+* [www.typemates.com/fonts/pensum-pro](https://www.typemates.com/fonts/pensum-pro) - lovely book face
+* [www.suitcasetype.com/fonts/teimer/styles](https://www.suitcasetype.com/fonts/teimer/styles) - stunning didone
+* [www.suitcasetype.com/fonts/crabath](https://www.suitcasetype.com/fonts/crabath) - gorgeous garamondesque - optical sizes
+* [www.suitcasetype.com/fonts/icona-serif](https://www.suitcasetype.com/fonts/icona-serif) - a plantin ?
+* [commercialtype.com/catalog/duplicate_ionic](https://commercialtype.com/catalog/duplicate_ionic) - clarendon, compact
+* [fontreviewjournal.com/galaxie-copernicus/](https://fontreviewjournal.com/galaxie-copernicus/) - outstanding plantin revival
+* [www.type-together.com/literata-font](https://www.type-together.com/literata-font) - superfamily, optical sizes
+* [productiontype.com/font/gamuth/gamuth-text](https://productiontype.com/font/gamuth/gamuth-text) - “dutch baroque”
+* [www.myfonts.com/collections/ingeborg-font-typejockeys](https://www.myfonts.com/collections/ingeborg-font-typejockeys) - display and text, didone
+* [www.typography.com/fonts/chronicle-text/overview](https://www.typography.com/fonts/chronicle-text/overview) - “blended scotch”
+* [www.myfonts.com/collections/fulmar-font-cast/](https://www.myfonts.com/collections/fulmar-font-cast/) - “modern scotch”
+* [www.myfonts.com/collections/calvino-font-zetafonts](https://www.myfonts.com/collections/calvino-font-zetafonts) - garalde; text/display
+* [www.myfonts.com/collections/passenger-serif-font-indian-type-foundry](https://www.myfonts.com/collections/passenger-serif-font-indian-type-foundry) - clarendon
+* [fonts.google.com/specimen/Neuton](https://fonts.google.com/specimen/Neuton) - compact, robust, monolinear
+* [commercialtype.com/catalog/canela/canela](https://commercialtype.com/catalog/canela/canela) - caslon... transitional...
+* [www.myfonts.com/products/sole-serif-complete-family-package-76428](https://www.myfonts.com/products/sole-serif-complete-family-package-76428) - optical sizes, handsome, robust
+* [www.myfonts.com/collections/garalda-font-type-together](https://www.myfonts.com/collections/garalda-font-type-together) - elegant garamond revival
+* [www.myfonts.com/collections/ashbury-font-hoftype](https://www.myfonts.com/collections/ashbury-font-hoftype) - caslon-esque
+* [www.myfonts.com/collections/legitima-font-cesar-puertas](https://www.myfonts.com/collections/legitima-font-cesar-puertas) - italianate? venetian????? aldine????
+* [processtypefoundry.com/fonts/elena/](https://processtypefoundry.com/fonts/elena/) - calligraphic, nice italic
+* [carterandcone.com/font/miller-text/](https://carterandcone.com/font/miller-text/)
+* [www.typotheque.com/blog/william-a-contemporary-interpretation-of-caslon-types](https://www.typotheque.com/blog/william-a-contemporary-interpretation-of-caslon-types)
+* [fonts.google.com/specimen/Libre+Caslon+Text](https://fonts.google.com/specimen/Libre+Caslon+Text)
+* [www.myfonts.com/collections/founders-caslon-font-itc](https://www.myfonts.com/collections/founders-caslon-font-itc) - caslon revival, optical sizes
+* [www.myfonts.com/products/espinosa-nova-complete-family-package-316060](https://www.myfonts.com/products/espinosa-nova-complete-family-package-316060) - optical sizes
+* [fonts.google.com/specimen/Spectral](https://fonts.google.com/specimen/Spectral)
+* [www.myfonts.com/collections/abril-titling-font-type-together](https://www.myfonts.com/collections/abril-titling-font-type-together) (actually display)
+* [typetura.com/blog/showcasing-roslindale-specimen-microsite/](https://typetura.com/blog/showcasing-roslindale-specimen-microsite/) - optical sizes
+* [www.myfonts.com/collections/tasman-font-re-type](https://www.myfonts.com/collections/tasman-font-re-type)
+* [www.myfonts.com/collections/fs-brabo-paneuropean-font-fontsmith](https://www.myfonts.com/collections/fs-brabo-paneuropean-font-fontsmith)
+* [www.myfonts.com/collections/yoga-pro-font-fontfont](https://www.myfonts.com/collections/yoga-pro-font-fontfont)
+* [www.myfonts.com/collections/preto-serif-ot-std-font-dizajndesign](https://www.myfonts.com/collections/preto-serif-ot-std-font-dizajndesign)
+* [connary.com/artifex.html](https://connary.com/artifex.html)
+* [blackletra.com/typefaces/drummond](https://blackletra.com/typefaces/drummond)
+* [www.myfonts.com/collections/olympian-font-linotype](https://www.myfonts.com/collections/olympian-font-linotype) - Matthew Carter
+* [www.herzbergdesign.com/thanatos](https://www.herzbergdesign.com/thanatos) - optical sizes
+* [artifyassets.com/nicholas-font-family-a-modern-classic-from-shinntype/](https://artifyassets.com/nicholas-font-family-a-modern-classic-from-shinntype/)
+* [www.zetafonts.com/calvino](https://www.zetafonts.com/calvino)
 
 ### ENGINEERING FACES
 
-* https://luc.devroye.org/fonts-80708.html - gorton engraving
-* https://webonastick.com/fonts/routed-gothic/ - revival of gorton
-  - links to Bryant https://processtypefoundry.com/fonts/bryant-2/ rounded Wrico
-* https://www.mvbfonts.com/pdfs/SweetSansSpecimen.pdf
+* [luc.devroye.org/fonts-80708.html](https://luc.devroye.org/fonts-80708.html) - gorton engraving
+* [webonastick.com/fonts/routed-gothic/](https://webonastick.com/fonts/routed-gothic/) - revival of gorton
+  - links to Bryant [processtypefoundry.com/fonts/bryant-2/](https://processtypefoundry.com/fonts/bryant-2/) rounded Wrico
+* [www.mvbfonts.com/pdfs/SweetSansSpecimen.pdf](https://www.mvbfonts.com/pdfs/SweetSansSpecimen.pdf)
 
 ### ALTERNATIVES TO HELVETICA
 
-* https://newlyn.com/fonts/new-atten/ - Gill Sans/Johnston revival
-* https://otherwherecollective.com/mikola/
-  - great blackletter sibling https://otherwherecollective.com/carpe-noctem/
-  - haha letterpress mould https://otherwherecollective.com/prixel/
-* https://fsd.it/shop/fonts/nure/ superfamily
-* https://type.today/en/journal/juneau - geometric sans
-* https://www.area-font.eu/ - geometric sans, superfamily, inktraps
-* https://tribby.com/fonts/barlow/ - superfamily grotesque
-* https://fsd.it/shop/fonts/abitare-sans/ - geometric sans
-* https://www.fatype.com/typefaces/baton - elegant grotesque superfamily
-* https://www.myfonts.com/collections/latino-gothic-font-latinotype - grotesque superfamily, many condensed/compressed
-* https://vercel.com/font - geometric sans
-* https://www.fontspring.com/fonts/latinotype/mohr - humanist sans
-* https://www.wearegradient.net/typefaces/polysans-wide/ - geometric sans, inktraps
-* https://abcdinamo.com/typefaces/rom - grotesque superfamily, condensed, compressed
-* https://www.suitcasetype.com/fonts/icona-sans - beautiful grotesque
-* https://www.suitcasetype.com/fonts/lipo - metro-ish? superfamily. condensed/compressed/wide
-* https://www.suitcasetype.com/fonts/tabac-micro - lovely very small text/caption sans; inktraps
-* https://commercialtype.com/catalog/styrene
-* https://www.omnibus-type.com/fonts/archivo/
-* https://www.swisstypefaces.com/fonts/suisse/#font - superfamily incl serif, mono
-* https://fontsinuse.com/typefaces/199162/abc-walter-neue - univers-like
-* https://black-foundry.com/fonts/numero-02/ - very clean gothic
-* https://fontsinuse.com/typefaces/41429/abc-favorit
-* https://fontsinuse.com/typefaces/82632/alte-haas-grotesk
-* https://fontsinuse.com/typefaces/104111/halvar
-* https://connary.com/articulat.html
-* https://lineto.com/typefaces/geigy
+* [newlyn.com/fonts/new-atten/](https://newlyn.com/fonts/new-atten/) - Gill Sans/Johnston revival
+* [otherwherecollective.com/mikola/](https://otherwherecollective.com/mikola/)
+  - great blackletter sibling [otherwherecollective.com/carpe-noctem/](https://otherwherecollective.com/carpe-noctem/)
+  - haha letterpress mould [otherwherecollective.com/prixel/](https://otherwherecollective.com/prixel/)
+* [fsd.it/shop/fonts/nure/](https://fsd.it/shop/fonts/nure/) superfamily
+* [type.today/en/journal/juneau](https://type.today/en/journal/juneau) - geometric sans
+* [www.area-font.eu/](https://www.area-font.eu/) - geometric sans, superfamily, inktraps
+* [tribby.com/fonts/barlow/](https://tribby.com/fonts/barlow/) - superfamily grotesque
+* [fsd.it/shop/fonts/abitare-sans/](https://fsd.it/shop/fonts/abitare-sans/) - geometric sans
+* [www.fatype.com/typefaces/baton](https://www.fatype.com/typefaces/baton) - elegant grotesque superfamily
+* [www.myfonts.com/collections/latino-gothic-font-latinotype](https://www.myfonts.com/collections/latino-gothic-font-latinotype) - grotesque superfamily, many condensed/compressed
+* [vercel.com/font](https://vercel.com/font) - geometric sans
+* [www.fontspring.com/fonts/latinotype/mohr](https://www.fontspring.com/fonts/latinotype/mohr) - humanist sans
+* [www.wearegradient.net/typefaces/polysans-wide/](https://www.wearegradient.net/typefaces/polysans-wide/) - geometric sans, inktraps
+* [abcdinamo.com/typefaces/rom](https://abcdinamo.com/typefaces/rom) - grotesque superfamily, condensed, compressed
+* [www.suitcasetype.com/fonts/icona-sans](https://www.suitcasetype.com/fonts/icona-sans) - beautiful grotesque
+* [www.suitcasetype.com/fonts/lipo](https://www.suitcasetype.com/fonts/lipo) - metro-ish? superfamily. condensed/compressed/wide
+* [www.suitcasetype.com/fonts/tabac-micro](https://www.suitcasetype.com/fonts/tabac-micro) - lovely very small text/caption sans; inktraps
+* [commercialtype.com/catalog/styrene](https://commercialtype.com/catalog/styrene)
+* [www.omnibus-type.com/fonts/archivo/](https://www.omnibus-type.com/fonts/archivo/)
+* [www.swisstypefaces.com/fonts/suisse/#font](https://www.swisstypefaces.com/fonts/suisse/#font) - superfamily incl serif, mono
+* [fontsinuse.com/typefaces/199162/abc-walter-neue](https://fontsinuse.com/typefaces/199162/abc-walter-neue) - univers-like
+* [black-foundry.com/fonts/numero-02/](https://black-foundry.com/fonts/numero-02/) - very clean gothic
+* [fontsinuse.com/typefaces/41429/abc-favorit](https://fontsinuse.com/typefaces/41429/abc-favorit)
+* [fontsinuse.com/typefaces/82632/alte-haas-grotesk](https://fontsinuse.com/typefaces/82632/alte-haas-grotesk)
+* [fontsinuse.com/typefaces/104111/halvar](https://fontsinuse.com/typefaces/104111/halvar)
+* [connary.com/articulat.html](https://connary.com/articulat.html)
+* [lineto.com/typefaces/geigy](https://lineto.com/typefaces/geigy)
+* [fontstand.com/fonts/datei-grotesk](https://fontstand.com/fonts/datei-grotesk)
 
 ### MONOSPACE
 
-* https://mass-driver.com/typefaces/md-io/
-* https://www.monolisa.dev/
-* https://jtdtype.com/typeface/Array - calligraphic, Renaissance italic basis
-* https://fonts.ilovetypography.com/fonts/familjen/quasimono#collections
-* https://www.type-together.com/lft-etica-mono-font
-* https://www.typotheque.com/fonts/diurnal-mono
-* https://typesupply.com/fonts/queuemono
-* https://www.type-together.com/adelle-mono-font
-* https://www.myfonts.com/collections/monologo-font-resistenza - lovely script variant
-* https://www.suitcasetype.com/fonts/lipo-text
-* https://processtypefoundry.com/fonts/coordinates/
-* https://lineto.com/typefaces/grey-mono?font=jbmU5iqsta#book
-* https://connary.com/ellograph.html
-* https://connary.com/cartograph.html
+* [mass-driver.com/typefaces/md-io/](https://mass-driver.com/typefaces/md-io/)
+* [www.monolisa.dev/](https://www.monolisa.dev/)
+* [jtdtype.com/typeface/Array](https://jtdtype.com/typeface/Array) - calligraphic, Renaissance italic basis
+* [fonts.ilovetypography.com/fonts/familjen/quasimono#collections](https://fonts.ilovetypography.com/fonts/familjen/quasimono#collections)
+* [www.type-together.com/lft-etica-mono-font](https://www.type-together.com/lft-etica-mono-font)
+* [www.typotheque.com/fonts/diurnal-mono](https://www.typotheque.com/fonts/diurnal-mono)
+* [typesupply.com/fonts/queuemono](https://typesupply.com/fonts/queuemono)
+* [www.type-together.com/adelle-mono-font](https://www.type-together.com/adelle-mono-font)
+* [www.myfonts.com/collections/monologo-font-resistenza](https://www.myfonts.com/collections/monologo-font-resistenza) - lovely script variant
+* [www.suitcasetype.com/fonts/lipo-text](https://www.suitcasetype.com/fonts/lipo-text)
+* [processtypefoundry.com/fonts/coordinates/](https://processtypefoundry.com/fonts/coordinates/)
+* [lineto.com/typefaces/grey-mono?font=jbmU5iqsta#book](https://lineto.com/typefaces/grey-mono?font=jbmU5iqsta#book)
+* [connary.com/ellograph.html](https://connary.com/ellograph.html)
+* [connary.com/cartograph.html](https://connary.com/cartograph.html)
 
 ### UTILITY
 
-* https://frerejones.com/families/retina - small size, data, ink traps
+* [frerejones.com/families/retina](https://frerejones.com/families/retina) - small size, data, ink traps
 
 ### MISC
 
-* https://www.fonthaus.com/fonts/monotypeimaging/linotype-sketch/MI35153848 - calligraphic italic, distressed
-* https://www.fonthaus.com/fonts/monotypeimaging/Linotype-Feltpen/MI36843756 - handwritten
-* https://www.schulschrift.at/ - school scripts - cursive
-* https://software.sil.org/andika/design/ - legibility humanistic sans
-* https://lineto.com/typefaces/blankenhorn#family - brush display scripts
-* https://black-foundry.com/fonts/squil/ - lovely fluted humanistic, modulated stroke, text + display
-* https://www.cnap.fr/sites/faune/ - humanist? calligraphic? french !
-* https://www.myfonts.com/products/magnat-text-package-208815 - french !
-* https://processtypefoundry.com/fonts/maple/ - lovely grotesque with those french characteristics too; "offspring of Process Grotesque – our retired interpretation of the Stephenson Blake grotesques"
-* https://www.myfonts.com/collections/wt-volkolak-font-wraith-types - superfamily; serif, sans
-* https://processtypefoundry.com/fonts/scandia-line/ - line/polygon
+* [www.fonthaus.com/fonts/monotypeimaging/linotype-sketch/MI35153848](https://www.fonthaus.com/fonts/monotypeimaging/linotype-sketch/MI35153848) - calligraphic italic, distressed
+* [www.fonthaus.com/fonts/monotypeimaging/Linotype-Feltpen/MI36843756](https://www.fonthaus.com/fonts/monotypeimaging/Linotype-Feltpen/MI36843756) - handwritten
+* [www.schulschrift.at/](https://www.schulschrift.at/) - school scripts - cursive
+* [software.sil.org/andika/design/](https://software.sil.org/andika/design/) - legibility humanistic sans
+* [lineto.com/typefaces/blankenhorn#family](https://lineto.com/typefaces/blankenhorn#family) - brush display scripts
+* [black-foundry.com/fonts/squil/](https://black-foundry.com/fonts/squil/) - lovely fluted humanistic, modulated stroke, text + display
+* [www.cnap.fr/sites/faune/](https://www.cnap.fr/sites/faune/) - humanist? calligraphic? french !
+* [www.myfonts.com/products/magnat-text-package-208815](https://www.myfonts.com/products/magnat-text-package-208815) - french !
+* [processtypefoundry.com/fonts/maple/](https://processtypefoundry.com/fonts/maple/) - lovely grotesque with those french characteristics too; "offspring of Process Grotesque – our retired interpretation of the Stephenson Blake grotesques"
+* [www.myfonts.com/collections/wt-volkolak-font-wraith-types](https://www.myfonts.com/collections/wt-volkolak-font-wraith-types) - superfamily; serif, sans
+* [processtypefoundry.com/fonts/scandia-line/](https://processtypefoundry.com/fonts/scandia-line/) - line/polygon
