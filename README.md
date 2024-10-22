@@ -1,6 +1,6 @@
 # Typeface lists
 
-* **These are not recommendations!** That takes more work.
+* (Except where I say _do not_), **These are not recommendations!** That takes more work.
   I might boil down into recommendations later. This is more just
   a catalogue of stuff I had open in browser tabs.
 * Needs much older material brought in from Quora answer about alternatives to Helvetica.
@@ -27,6 +27,12 @@
 * https://fontstand.com/news/foundry-profiles/mass-driver/
 * https://www.mvbfonts.com/browse/fonts
 * https://studiotype.com/
+* https://www.typemates.com/
+* https://connary.com/fonts.html
+* https://blackletra.com/
+* https://hottype.co/fonts
+* https://www.sharptype.co/typefaces
+* https://www.herzbergdesign.com/ - some amazing blackletters
 
 ### DO NOT USE FOR BODY
 
@@ -41,11 +47,16 @@
 * https://djr.com/forma - impressive revival - optical sizes
 * https://www.hvdfonts.com/fonts/supria-sans#
 * https://fonts.google.com/specimen/Varela+Round
+* https://seravek.com/
+* https://fontstand.com/fonts/micrograph
+* https://connary.com/greycliff.html
+* https://connary.com/artifexhand.html
+* https://halyard.dardenstudio.com/#welcome
 
 ### BOOK SERIFS
 
 * https://okaytype.com/harriet#specimens - revives Baskerville via Scotch Romans
-* https://legacy.lineto.com/ - LL Bradford - revives Plantinesques
+* https://legacy.lineto.com/ ; https://lineto.com/typefaces/bradford/ - LL Bradford - revives Plantinesques
 * https://fonts.google.com/specimen/Crimson+Pro
 * https://fonts.google.com/specimen/Old+Standard+TT - Century, condensed-ish
 * https://www.type-together.com/ploquine-font - elegant slab serif
@@ -81,6 +92,18 @@
 * https://www.myfonts.com/collections/founders-caslon-font-itc - caslon revival, optical sizes
 * https://www.myfonts.com/products/espinosa-nova-complete-family-package-316060 - optical sizes
 * https://fonts.google.com/specimen/Spectral
+* https://www.myfonts.com/collections/abril-titling-font-type-together (actually display)
+* https://typetura.com/blog/showcasing-roslindale-specimen-microsite/ - optical sizes
+* https://www.myfonts.com/collections/tasman-font-re-type
+* https://www.myfonts.com/collections/fs-brabo-paneuropean-font-fontsmith
+* https://www.myfonts.com/collections/yoga-pro-font-fontfont
+* https://www.myfonts.com/collections/preto-serif-ot-std-font-dizajndesign
+* https://connary.com/artifex.html
+* https://blackletra.com/typefaces/drummond
+* https://www.myfonts.com/collections/olympian-font-linotype - Matthew Carter
+* https://www.herzbergdesign.com/thanatos - optical sizes
+* https://artifyassets.com/nicholas-font-family-a-modern-classic-from-shinntype/
+* https://www.zetafonts.com/calvino
 
 ### ENGINEERING FACES
 
@@ -114,6 +137,11 @@
 * https://www.swisstypefaces.com/fonts/suisse/#font - superfamily incl serif, mono
 * https://fontsinuse.com/typefaces/199162/abc-walter-neue - univers-like
 * https://black-foundry.com/fonts/numero-02/ - very clean gothic
+* https://fontsinuse.com/typefaces/41429/abc-favorit
+* https://fontsinuse.com/typefaces/82632/alte-haas-grotesk
+* https://fontsinuse.com/typefaces/104111/halvar
+* https://connary.com/articulat.html
+* https://lineto.com/typefaces/geigy
 
 ### MONOSPACE
 
@@ -128,6 +156,9 @@
 * https://www.myfonts.com/collections/monologo-font-resistenza - lovely script variant
 * https://www.suitcasetype.com/fonts/lipo-text
 * https://processtypefoundry.com/fonts/coordinates/
+* https://lineto.com/typefaces/grey-mono?font=jbmU5iqsta#book
+* https://connary.com/ellograph.html
+* https://connary.com/cartograph.html
 
 ### UTILITY
 
