@@ -34,6 +34,9 @@
 * [www.sharptype.co](https://www.sharptype.co/typefaces)
 * [www.herzbergdesign.com](https://www.herzbergdesign.com/) - some amazing blackletters
 * [kontour.com](https://kontour.com/)
+* [Typofonderie](https://typofonderie.com/)
+* [29LT](https://www.29lt.com/29lt-fonts/) - latin & arabic
+* [Daniel Perraudin](https://bureau-perraudin.com/typefaces)
 
 ### DO NOT USE FOR BODY
 
@@ -52,7 +55,9 @@
 * [fontstand.com/fonts/micrograph](https://fontstand.com/fonts/micrograph)
 * [connary.com/greycliff.html](https://connary.com/greycliff.html)
 * [connary.com/artifexhand.html](https://connary.com/artifexhand.html)
-* [halyard.dardenstudio.com/#welcome](https://halyard.dardenstudio.com/#welcome)
+* [halyard.dardenstudio.com](https://halyard.dardenstudio.com/#welcome)
+* [sudetype gradec](https://new.sudetype.com/en/typefaces/gradec/styles)
+* [Prosaic](https://medium.com/typofonderie/prosaic-a-postmodern-vernacular-sanserif-by-aur%C3%A9lien-vret-39b670609047)
 
 ### BOOK SERIFS
 
@@ -105,6 +110,15 @@
 * [www.herzbergdesign.com/thanatos](https://www.herzbergdesign.com/thanatos) - optical sizes
 * [artifyassets.com/nicholas-font-family-a-modern-classic-from-shinntype/](https://artifyassets.com/nicholas-font-family-a-modern-classic-from-shinntype/)
 * [www.zetafonts.com/calvino](https://www.zetafonts.com/calvino)
+* [Sharp Serif](https://www.sharptype.co/typefaces/sharp-serif-omni)
+* [Dover Text](https://tinytype.co/type/dover-text)
+* [Arsen](https://typofonderie.com/fonts/arsen-affiche)
+* [Apolline](https://typofonderie.com/fonts/apolline)
+* [Austerlitz](https://typofonderie.com/fonts/austerlitz-petit)
+* [Le Monde](https://typofonderie.com/fonts/le-monde-journal)
+* [Fournier](https://typofonderie.com/fonts/ps-fournier)
+* [Sabon Next](https://typofonderie.com/fonts/sabon-next)
+* [Dato Serif](https://bureau-perraudin.com/typefaces/dato) - this looks very interesting but is not released since 2012!
 
 ### ENGINEERING FACES
 
@@ -144,6 +158,10 @@
 * [connary.com/articulat.html](https://connary.com/articulat.html)
 * [lineto.com/typefaces/geigy](https://lineto.com/typefaces/geigy)
 * [fontstand.com/fonts/datei-grotesk](https://fontstand.com/fonts/datei-grotesk)
+* [Yep! Innovator Grotesk](https://visuelle.co.uk/innovator-grotesk/)
+* [Wix Madefor](https://fonts.google.com/specimen/Wix+Madefor+Text)
+* [Aiglon](https://typofonderie.com/fonts/aiglon)
+* [Airport](https://airport.revolvertype.com/)
 
 ### MONOSPACE
 
@@ -161,10 +179,14 @@
 * [lineto.com/typefaces/grey-mono?font=jbmU5iqsta#book](https://lineto.com/typefaces/grey-mono?font=jbmU5iqsta#book)
 * [connary.com/ellograph.html](https://connary.com/ellograph.html)
 * [connary.com/cartograph.html](https://connary.com/cartograph.html)
+* [Belinsky](https://www.tosche.net/fonts/belinsky)
 
 ### UTILITY
 
 * [frerejones.com/families/retina](https://frerejones.com/families/retina) - small size, data, ink traps
+* Breeze Sans
+* HarmonyOS Sans
+* Radio Canada
 
 ### MISC
 
@@ -179,3 +201,4 @@
 * [processtypefoundry.com/fonts/maple/](https://processtypefoundry.com/fonts/maple/) - lovely grotesque with those french characteristics too; "offspring of Process Grotesque – our retired interpretation of the Stephenson Blake grotesques"
 * [www.myfonts.com/collections/wt-volkolak-font-wraith-types](https://www.myfonts.com/collections/wt-volkolak-font-wraith-types) - superfamily; serif, sans
 * [processtypefoundry.com/fonts/scandia-line/](https://processtypefoundry.com/fonts/scandia-line/) - line/polygon
+* [https://typofonderie.com/fonts/arbale](Arbale) - sans, "vernacular"
