@@ -27,7 +27,7 @@
 * [fontstand.com](https://fontstand.com/news/foundry-profiles/mass-driver/)
 * [www.mvbfonts.com](https://www.mvbfonts.com/browse/fonts)
 * [studiotype.com](https://studiotype.com/)
-* [www.typemates.com](https://www.typemates.com/)
+* [www.typemates.com](https://www.typemates.com/) - some lovely geometric sans, characterful text faces, monospaces
 * [connary.com](https://connary.com/fonts.html)
 * [blackletra.com](https://blackletra.com/)
 * [hottype.co](https://hottype.co/fonts)
@@ -37,6 +37,8 @@
 * [Typofonderie](https://typofonderie.com/)
 * [29LT](https://www.29lt.com/29lt-fonts/) - latin & arabic
 * [Daniel Perraudin](https://bureau-perraudin.com/typefaces)
+* [Kilotype](https://kilotype.de)
+* [Ivy Foundry](https://ivyfoundry.com/)
 
 ### DO NOT USE FOR BODY
 
@@ -58,6 +60,12 @@
 * [halyard.dardenstudio.com](https://halyard.dardenstudio.com/#welcome)
 * [sudetype gradec](https://new.sudetype.com/en/typefaces/gradec/styles)
 * [Prosaic](https://medium.com/typofonderie/prosaic-a-postmodern-vernacular-sanserif-by-aur%C3%A9lien-vret-39b670609047)
+* [Guzzo](https://www.monotype.com/fonts/guzzo)
+* [Oldschool Grotesk](http://oldschoolgrotesk.kilotype.de)
+* [Frequenz](https://kilotype.de/families/frequenz)
+* [Proto Grotesk](https://fontreviewjournal.com/proto-grotesk/)
+* [Acumin](https://acumin.typekit.com/)
+* [Taurus Grotesk](https://www.fostertype.com/retail-type/taurus-grotesk)
 
 ### BOOK SERIFS
 
@@ -73,6 +81,7 @@
 * [store.typenetwork.com/foundry/orangeitalic/series/farnham](https://store.typenetwork.com/foundry/orangeitalic/series/farnham) - nice optical sizes
 * [www.typemates.com/fonts/meret](https://www.typemates.com/fonts/meret) - compact, newspaper
 * [www.typemates.com/fonts/pensum-pro](https://www.typemates.com/fonts/pensum-pro) - lovely book face
+* [Bridge Text](https://www.typemates.com/fonts/bridge-text)
 * [www.suitcasetype.com/fonts/teimer/styles](https://www.suitcasetype.com/fonts/teimer/styles) - stunning didone
 * [www.suitcasetype.com/fonts/crabath](https://www.suitcasetype.com/fonts/crabath) - gorgeous garamondesque - optical sizes
 * [www.suitcasetype.com/fonts/icona-serif](https://www.suitcasetype.com/fonts/icona-serif) - a plantin ?
@@ -119,6 +128,9 @@
 * [Fournier](https://typofonderie.com/fonts/ps-fournier)
 * [Sabon Next](https://typofonderie.com/fonts/sabon-next)
 * [Dato Serif](https://bureau-perraudin.com/typefaces/dato) - this looks very interesting but is not released since 2012!
+* [Blanco](https://www.fostertype.com/retail-type/blanco) - lovely Plantinesque
+* [Dinamo Otto](https://abcdinamo.com/typefaces/otto)
+* [IvyOra](https://ivyfoundry.com/families/ivyora/) - lovely Caslonesque (Dutch Antiqua); optical sizes
 
 ### ENGINEERING FACES
 
@@ -162,6 +174,7 @@
 * [Wix Madefor](https://fonts.google.com/specimen/Wix+Madefor+Text)
 * [Aiglon](https://typofonderie.com/fonts/aiglon)
 * [Airport](https://airport.revolvertype.com/)
+* [Marr Sans](https://www.fostertype.com/portfolio/marrsans) - grotesque
 
 ### MONOSPACE
 
