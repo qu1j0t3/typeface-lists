@@ -39,6 +39,8 @@
 * [Daniel Perraudin](https://bureau-perraudin.com/typefaces)
 * [Kilotype](https://kilotype.de)
 * [Ivy Foundry](https://ivyfoundry.com/)
+* [So Type](https://so-type.com/) - designer of Sweden Sans
+* [Letters From Sweden](https://lettersfromsweden.se/fonts/)
 
 ### DO NOT USE FOR BODY
 
@@ -66,6 +68,7 @@
 * [Proto Grotesk](https://fontreviewjournal.com/proto-grotesk/)
 * [Acumin](https://acumin.typekit.com/)
 * [Taurus Grotesk](https://www.fostertype.com/retail-type/taurus-grotesk)
+* [So Ray](https://so-type.com/retail/so-ray/)
 
 ### BOOK SERIFS
 
@@ -200,6 +203,7 @@
 * Breeze Sans
 * HarmonyOS Sans
 * Radio Canada
+* [DJR Output](https://djr.com/output)
 
 ### MISC
 
