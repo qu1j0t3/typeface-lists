@@ -134,6 +134,8 @@
 * [Blanco](https://www.fostertype.com/retail-type/blanco) - lovely Plantinesque
 * [Dinamo Otto](https://abcdinamo.com/typefaces/otto)
 * [IvyOra](https://ivyfoundry.com/families/ivyora/) - lovely Caslonesque (Dutch Antiqua); optical sizes
+* [Immortel](https://www.205.tf/immortel) - optical sizes, and four lovely "humours"
+* [Klim Epicene](https://klim.co.nz/retail-fonts/epicene-text/)
 
 ### ENGINEERING FACES
 
