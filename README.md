@@ -41,6 +41,7 @@
 * [Ivy Foundry](https://ivyfoundry.com/)
 * [So Type](https://so-type.com/) - designer of Sweden Sans
 * [Letters From Sweden](https://lettersfromsweden.se/fonts/)
+* [Letter Soup](https://www.lettersoup.de) - many interesting sans, including unicase
 
 ### DO NOT USE FOR BODY
 
@@ -180,6 +181,7 @@
 * [Aiglon](https://typofonderie.com/fonts/aiglon)
 * [Airport](https://airport.revolvertype.com/)
 * [Marr Sans](https://www.fostertype.com/portfolio/marrsans) - grotesque
+* [Snaga](https://www.lettersoup.de/product-category/snagaarabictext/) - with Arabic
 
 ### MONOSPACE
 
