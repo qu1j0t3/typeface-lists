@@ -42,6 +42,7 @@
 * [So Type](https://so-type.com/) - designer of Sweden Sans
 * [Letters From Sweden](https://lettersfromsweden.se/fonts/)
 * [Letter Soup](https://www.lettersoup.de) - many interesting sans, including unicase
+* [The Pyte Foundry](https://thepytefoundry.net) - quirky revivals, including compressed grotesque
 
 ### DO NOT USE FOR BODY
 
@@ -137,6 +138,7 @@
 * [IvyOra](https://ivyfoundry.com/families/ivyora/) - lovely Caslonesque (Dutch Antiqua); optical sizes
 * [Immortel](https://www.205.tf/immortel) - optical sizes, and four lovely "humours"
 * [Klim Epicene](https://klim.co.nz/retail-fonts/epicene-text/)
+* [Triptych](https://thepytefoundry.net/typefaces/triptych/) - spicy, bookish old style and grotesque
 
 ### ENGINEERING FACES
 
@@ -200,6 +202,8 @@
 * [connary.com/ellograph.html](https://connary.com/ellograph.html)
 * [connary.com/cartograph.html](https://connary.com/cartograph.html)
 * [Belinsky](https://www.tosche.net/fonts/belinsky)
+* [Recursive](https://www.recursive.design)
+* [Associate Mono](https://www.indiantypefoundry.com/fonts/associate-mono)
 
 ### UTILITY
 
