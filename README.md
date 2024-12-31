@@ -71,6 +71,8 @@
 * [Acumin](https://acumin.typekit.com/)
 * [Taurus Grotesk](https://www.fostertype.com/retail-type/taurus-grotesk)
 * [So Ray](https://so-type.com/retail/so-ray/)
+* [Typonine Sans](https://www.typotheque.com/fonts/typonine-sans)
+* [Alegreya Sans](https://fonts.google.com/specimen/Alegreya+Sans)
 
 ### BOOK SERIFS
 
@@ -139,6 +141,7 @@
 * [Immortel](https://www.205.tf/immortel) - optical sizes, and four lovely "humours"
 * [Klim Epicene](https://klim.co.nz/retail-fonts/epicene-text/)
 * [Triptych](https://thepytefoundry.net/typefaces/triptych/) - spicy, bookish old style and grotesque
+* [Lórien](https://mass-driver.com/typeface/md-lorien/)
 
 ### ENGINEERING FACES
 
@@ -212,6 +215,7 @@
 * HarmonyOS Sans
 * Radio Canada
 * [DJR Output](https://djr.com/output)
+* [Zed Text](https://www.typotheque.com/fonts/zed-text) - strongly Frutiger-esque; many weights; condensed and wide
 
 ### MISC
 
