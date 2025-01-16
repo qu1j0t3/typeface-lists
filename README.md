@@ -73,6 +73,7 @@
 * [So Ray](https://so-type.com/retail/so-ray/)
 * [Typonine Sans](https://www.typotheque.com/fonts/typonine-sans)
 * [Alegreya Sans](https://fonts.google.com/specimen/Alegreya+Sans)
+* [Lygia Sans](https://www.flaviazim.com/typefaces/lygia-sans)
 
 ### BOOK SERIFS
 
