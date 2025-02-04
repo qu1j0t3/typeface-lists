@@ -43,6 +43,7 @@
 * [Letters From Sweden](https://lettersfromsweden.se/fonts/)
 * [Letter Soup](https://www.lettersoup.de) - many interesting sans, including unicase
 * [The Pyte Foundry](https://thepytefoundry.net) - quirky revivals, including compressed grotesque
+* [The Designers Foundry](https://www.thedesignersfoundry.com/typefaces)
 
 ### DO NOT USE FOR BODY
 
@@ -143,6 +144,8 @@
 * [Klim Epicene](https://klim.co.nz/retail-fonts/epicene-text/)
 * [Triptych](https://thepytefoundry.net/typefaces/triptych/) - spicy, bookish old style and grotesque
 * [Lórien](https://mass-driver.com/typeface/md-lorien/)
+* [Morisawa Role superfamily](https://en.morisawafonts.com/recommendation/28/) - optical sizes
+* [Lyon](https://carvalho-bernau.com/lyon/) - optical sizes
 
 ### ENGINEERING FACES
 
@@ -208,6 +211,7 @@
 * [Belinsky](https://www.tosche.net/fonts/belinsky)
 * [Recursive](https://www.recursive.design)
 * [Associate Mono](https://www.indiantypefoundry.com/fonts/associate-mono)
+* [Monosten](https://www.colophon-foundry.org/typefaces/monosten) - very nice
 
 ### UTILITY
 
