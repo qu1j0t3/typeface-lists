@@ -146,6 +146,8 @@
 * [Lórien](https://mass-driver.com/typeface/md-lorien/)
 * [Morisawa Role superfamily](https://en.morisawafonts.com/recommendation/28/) - optical sizes
 * [Lyon](https://carvalho-bernau.com/lyon/) - optical sizes
+* [Meta Serif](https://typographica.org/typeface-reviews/ff-meta-serif/)
+* [Hercules Neo](https://type-atlas.xyz/typeface/hercules-neo/) by Stormtype
 
 ### ENGINEERING FACES
 
