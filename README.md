@@ -139,7 +139,7 @@
 * [Sabon Next](https://typofonderie.com/fonts/sabon-next)
 * [Dato Serif](https://bureau-perraudin.com/typefaces/dato) - this looks very interesting but is not released since 2012!
 * [Blanco](https://www.fostertype.com/retail-type/blanco) - lovely Plantinesque
-* [Dinamo Otto](https://abcdinamo.com/typefaces/otto)
+* ~~[Dinamo Otto](https://abcdinamo.com/typefaces/otto)~~ - Boycott Dinamo until they repudiate 'ai' and their collaboration with OpenAI, a criminal enterprise
 * [IvyOra](https://ivyfoundry.com/families/ivyora/) - lovely Caslonesque (Dutch Antiqua); optical sizes
 * [Immortel](https://www.205.tf/immortel) - optical sizes, and four lovely "humours"
 * [Klim Epicene](https://klim.co.nz/retail-fonts/epicene-text/)
@@ -177,7 +177,7 @@
 * [vercel.com/font](https://vercel.com/font) - geometric sans
 * [Mohr](https://www.fontspring.com/fonts/latinotype/mohr) - humanist sans
 * [Polysans-wide/](https://www.wearegradient.net/typefaces/polysans-wide/) - geometric sans, inktraps
-* [Rom](https://abcdinamo.com/typefaces/rom) - grotesque superfamily, condensed, compressed
+* ~~[Rom](https://abcdinamo.com/typefaces/rom) - grotesque superfamily, condensed, compressed~~ - Boycott Dinamo until they repudiate 'ai' and their collaboration with OpenAI, a criminal enterprise
 * [icona-sans](https://www.suitcasetype.com/fonts/icona-sans) - beautiful grotesque
 * [lipo](https://www.suitcasetype.com/fonts/lipo) - metro-ish? superfamily. condensed/compressed/wide
 * [tabac-micro](https://www.suitcasetype.com/fonts/tabac-micro) - lovely very small text/caption sans; inktraps
@@ -220,6 +220,7 @@
 * [Associate Mono](https://www.indiantypefoundry.com/fonts/associate-mono)
 * [Monosten](https://www.colophon-foundry.org/typefaces/monosten) - very nice
 * [Carot Mono](https://www.stormtype.com/families/carot-mono) - interesting, especially in the boldest weights
+* [Muoto Mono](https://www.205.tf/muoto-mono) - pleasant!
 
 ### UTILITY
 
