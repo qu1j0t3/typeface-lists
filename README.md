@@ -44,6 +44,8 @@
 * [Letter Soup](https://www.lettersoup.de) - many interesting sans, including unicase
 * [The Pyte Foundry](https://thepytefoundry.net) - quirky revivals, including compressed grotesque
 * [The Designers Foundry](https://www.thedesignersfoundry.com/typefaces)
+* Canada Type
+* [Process Type](https://processtypefoundry.com/fonts/)
 
 ### DO NOT USE FOR BODY
 
@@ -76,6 +78,7 @@
 * [Alegreya Sans](https://fonts.google.com/specimen/Alegreya+Sans)
 * [Lygia Sans](https://www.flaviazim.com/typefaces/lygia-sans)
 * [Clara Sans](https://www.stormtype.com/families/clara-sans) - superfamily including serif
+* [Ador](https://www.fontador.de/fonts-shop/ador-hairline/) - lovely high contrast humanist sans
 
 ### BOOK SERIFS
 
@@ -153,6 +156,8 @@
 * [Ny.](https://a2-type.co.uk/ny-text) by A2 Type; A2 has a number of other elegant book serifs worth checking out
 * [Jannon Neo](https://www.stormtype.com/families/jannon) - excellent set of optical sizes
 * [Henry](https://www.205.tf/henry) - Garamond revival
+* Freight Pro
+* Quiosco - Cyrus Highsmith
 
 ### ENGINEERING FACES
 
@@ -221,6 +226,7 @@
 * [Monosten](https://www.colophon-foundry.org/typefaces/monosten) - very nice
 * [Carot Mono](https://www.stormtype.com/families/carot-mono) - interesting, especially in the boldest weights
 * [Muoto Mono](https://www.205.tf/muoto-mono) - pleasant!
+* [Spot Mono](https://www.schick-toikka.com/spot-mono) - lovely, rounded, attractive and friendshaped
 
 ### UTILITY
 
@@ -240,6 +246,7 @@
 * [Blankenhorn](https://lineto.com/typefaces/blankenhorn#family) - brush display scripts
 * [Squil](https://black-foundry.com/fonts/squil/) - lovely fluted humanistic, modulated stroke, text + display
 * [Faune](https://www.cnap.fr/sites/faune/) - humanist? calligraphic? french !
+* [Granville](https://productiontype.com/font/granville) - also very French! calligraphic shaded humanist
 * [magnat-text-package-208815](https://www.myfonts.com/products/magnat-text-package-208815) - french !
 * [Maple/](https://processtypefoundry.com/fonts/maple/) - lovely grotesque with those french characteristics too; "offspring of Process Grotesque – our retired interpretation of the Stephenson Blake grotesques"
 * [wt-volkolak-font-wraith-types](https://www.myfonts.com/collections/wt-volkolak-font-wraith-types) - superfamily; serif, sans
