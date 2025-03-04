@@ -46,6 +46,9 @@
 * [The Designers Foundry](https://www.thedesignersfoundry.com/typefaces)
 * Canada Type
 * [Process Type](https://processtypefoundry.com/fonts/)
+* [NewGlyph](https://newglyph.com/)
+* [Contrast Foundry](https://contrastfoundry.com/)
+* [V-Fonts](https://v-fonts.com/) - Not a foundry, but a catalogue - by the amazing Nick Shinn
 
 ### DO NOT USE FOR BODY
 
@@ -79,6 +82,8 @@
 * [Lygia Sans](https://www.flaviazim.com/typefaces/lygia-sans)
 * [Clara Sans](https://www.stormtype.com/families/clara-sans) - superfamily including serif
 * [Ador](https://www.fontador.de/fonts-shop/ador-hairline/) - lovely high contrast humanist sans
+* [Lektorat](https://v-fonts.com/fonts/lektorat-var)
+* [Antarctica](https://v-fonts.com/fonts/antarctica-var)
 
 ### BOOK SERIFS
 
@@ -158,6 +163,11 @@
 * [Henry](https://www.205.tf/henry) - Garamond revival
 * Freight Pro
 * Quiosco - Cyrus Highsmith
+* [Cardo](https://fonts.google.com/specimen/Cardo) - Aldine / Bembo, free
+* [Graveur](https://v-fonts.com/fonts/graveur-variable) - Granjon, variable
+* [Fern](https://v-fonts.com/fonts/fern-variable) - lovely Venetian by DJR
+* [Pantheon](https://www.grillitype.com/blog/typeface-stories/gt-pantheon-type-story) - wow, just read it...
+* [Acta](https://v-fonts.com/fonts/acta-var)
 
 ### ENGINEERING FACES
 
@@ -252,3 +262,4 @@
 * [wt-volkolak-font-wraith-types](https://www.myfonts.com/collections/wt-volkolak-font-wraith-types) - superfamily; serif, sans
 * [Scandia-line/](https://processtypefoundry.com/fonts/scandia-line/) - line/polygon
 * [Arbale](https://typofonderie.com/fonts/arbale) - sans, "vernacular"
+* [GT Super](https://gt-super.com/) - Perpetua-like headline/display faces
