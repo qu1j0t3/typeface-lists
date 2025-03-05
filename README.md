@@ -49,6 +49,7 @@
 * [NewGlyph](https://newglyph.com/)
 * [Contrast Foundry](https://contrastfoundry.com/)
 * [V-Fonts](https://v-fonts.com/) - Not a foundry, but a catalogue - by the amazing Nick Shinn
+* [Huerta Tipográfia](https://huertatipografica.com/)
 
 ### DO NOT USE FOR BODY
 
@@ -78,7 +79,6 @@
 * [Taurus Grotesk](https://www.fostertype.com/retail-type/taurus-grotesk)
 * [So Ray](https://so-type.com/retail/so-ray/)
 * [Typonine Sans](https://www.typotheque.com/fonts/typonine-sans)
-* [Alegreya Sans](https://fonts.google.com/specimen/Alegreya+Sans)
 * [Lygia Sans](https://www.flaviazim.com/typefaces/lygia-sans)
 * [Clara Sans](https://www.stormtype.com/families/clara-sans) - superfamily including serif
 * [Ador](https://www.fontador.de/fonts-shop/ador-hairline/) - lovely high contrast humanist sans
@@ -168,6 +168,8 @@
 * [Fern](https://v-fonts.com/fonts/fern-variable) - lovely Venetian by DJR
 * [Pantheon](https://www.grillitype.com/blog/typeface-stories/gt-pantheon-type-story) - wow, just read it...
 * [Acta](https://v-fonts.com/fonts/acta-var)
+* [Caslon Ionic Rounded](https://vault.commercialtype.com/vault/caslon_ionic_rounded) - basically what it says on the tin - lovely
+* [Alegreya Pro](https://huertatipografica.com/en/fonts/alegreya-ht-pro)
 
 ### ENGINEERING FACES
 
