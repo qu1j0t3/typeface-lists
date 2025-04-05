@@ -50,6 +50,11 @@
 * [Contrast Foundry](https://contrastfoundry.com/)
 * [V-Fonts](https://v-fonts.com/) - Not a foundry, but a catalogue - by the amazing Nick Shinn
 * [Huerta Tipográfia](https://huertatipografica.com/)
+* [NaN](https://www.nan.xyz/fonts/)
+* [Smuss Studio](https://typekiosk.smuss.studio/)
+* [Counterforms](https://counter-forms.com/)
+* [CoTypeFoundry](https://cotypefoundry.com/) - hat tip @kaitlinsullivan
+* [Razzia Type](https://www.razziatype.com/)
 
 ### DO NOT USE FOR BODY
 
@@ -84,6 +89,7 @@
 * [Ador](https://www.fontador.de/fonts-shop/ador-hairline/) - lovely high contrast humanist sans
 * [Lektorat](https://v-fonts.com/fonts/lektorat-var)
 * [Antarctica](https://v-fonts.com/fonts/antarctica-var)
+* [Bureau Sans](https://typekiosk.smuss.studio/bureau-sans)
 
 ### BOOK SERIFS
 
@@ -170,6 +176,11 @@
 * [Acta](https://v-fonts.com/fonts/acta-var)
 * [Caslon Ionic Rounded](https://vault.commercialtype.com/vault/caslon_ionic_rounded) - basically what it says on the tin - lovely
 * [Alegreya Pro](https://huertatipografica.com/en/fonts/alegreya-ht-pro)
+* [NaN Serf](https://www.nan.xyz/fonts/nan-serf/)
+* [Bureau Serif](https://typekiosk.smuss.studio/bureau-serif)
+* [Saga](https://typekiosk.smuss.studio/saga)
+* [Herbik](https://counter-forms.com/typefaces/herbik)
+* [APN Chora](https://www.alphabetspatricknell.com/fonts/apn-chora)
 
 ### ENGINEERING FACES
 
@@ -215,6 +226,8 @@
 * [Airport](https://airport.revolvertype.com/)
 * [Marr Sans](https://www.fostertype.com/portfolio/marrsans) - grotesque
 * [Snaga](https://www.lettersoup.de/product-category/snagaarabictext/) - with Arabic
+* [Exat](https://exat.hottype.co/)
+* [Aeonik](https://cotypefoundry.com/our-fonts/aeonik)
 
 ### MONOSPACE
 
@@ -239,6 +252,7 @@
 * [Carot Mono](https://www.stormtype.com/families/carot-mono) - interesting, especially in the boldest weights
 * [Muoto Mono](https://www.205.tf/muoto-mono) - pleasant!
 * [Spot Mono](https://www.schick-toikka.com/spot-mono) - lovely, rounded, attractive and friendshaped
+* [RT Dromo](https://www.rt-dromo.com/)
 
 ### UTILITY
 
