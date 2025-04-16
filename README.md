@@ -55,6 +55,7 @@
 * [Counterforms](https://counter-forms.com/)
 * [CoTypeFoundry](https://cotypefoundry.com/) - hat tip @kaitlinsullivan
 * [Razzia Type](https://www.razziatype.com/)
+* [Labour And Wait](https://www.laborandwait.xyz/)
 
 ### DO NOT USE FOR BODY
 
@@ -90,6 +91,7 @@
 * [Lektorat](https://v-fonts.com/fonts/lektorat-var)
 * [Antarctica](https://v-fonts.com/fonts/antarctica-var)
 * [Bureau Sans](https://typekiosk.smuss.studio/bureau-sans)
+* [Figtree](https://www.erikdkennedy.com/projects/figtree.html)
 
 ### BOOK SERIFS
 
@@ -181,6 +183,8 @@
 * [Saga](https://typekiosk.smuss.studio/saga)
 * [Herbik](https://counter-forms.com/typefaces/herbik)
 * [APN Chora](https://www.alphabetspatricknell.com/fonts/apn-chora)
+* [Aeroplan](https://www.type-together.com/aeroplan-font)
+* [Copernicus](https://www.laborandwait.xyz/fonts/copernicus)
 
 ### ENGINEERING FACES
 
