@@ -56,6 +56,9 @@
 * [CoTypeFoundry](https://cotypefoundry.com/) - hat tip @kaitlinsullivan
 * [Razzia Type](https://www.razziatype.com/)
 * [Labour And Wait](https://www.laborandwait.xyz/)
+* [Backpacker.gr](https://backpacker.gr/)
+* [Nouvelle Noir](https://nouvellenoire.ch/type-collection/)
+* [Canada Type](https://canadatype.com/fonts/)
 
 ### DO NOT USE FOR BODY
 
@@ -185,6 +188,8 @@
 * [APN Chora](https://www.alphabetspatricknell.com/fonts/apn-chora)
 * [Aeroplan](https://www.type-together.com/aeroplan-font)
 * [Copernicus](https://www.laborandwait.xyz/fonts/copernicus)
+* [Lavigne Nova](https://www.re-type.com/fonts/lavigne-nova/)
+* [Bunyan Pro](https://canadatype.com/product/bunyan-pro/)
 
 ### ENGINEERING FACES
 
@@ -266,6 +271,7 @@
 * Radio Canada
 * [DJR Output](https://djr.com/output)
 * [Zed Text](https://www.typotheque.com/fonts/zed-text) - strongly Frutiger-esque; many weights; condensed and wide
+* [Zeitung Micro/Macro](https://www.underware.nl/fonts/zeitung)
 
 ### MISC
 
