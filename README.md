@@ -48,7 +48,7 @@
 * [Process Type](https://processtypefoundry.com/fonts/)
 * [NewGlyph](https://newglyph.com/)
 * [Contrast Foundry](https://contrastfoundry.com/)
-* [V-Fonts](https://v-fonts.com/) - Not a foundry, but a catalogue - by the amazing Nick Shinn
+* [V-Fonts](https://v-fonts.com/) - Not a foundry, but a catalogue - by the amazing Nick Sherman
 * [Huerta Tipográfia](https://huertatipografica.com/)
 * [NaN](https://www.nan.xyz/fonts/)
 * [Smuss Studio](https://typekiosk.smuss.studio/)
