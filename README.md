@@ -95,6 +95,8 @@
 * [Antarctica](https://v-fonts.com/fonts/antarctica-var)
 * [Bureau Sans](https://typekiosk.smuss.studio/bureau-sans)
 * [Figtree](https://www.erikdkennedy.com/projects/figtree.html)
+* [FF Basic Gothic](https://www.hvdfonts.com/fonts/ff-basic-gothic)
+* [FF Niveau Grotesk](https://www.hvdfonts.com/fonts/niveau-grotesk)
 
 ### BOOK SERIFS
 
@@ -190,6 +192,9 @@
 * [Copernicus](https://www.laborandwait.xyz/fonts/copernicus)
 * [Lavigne Nova](https://www.re-type.com/fonts/lavigne-nova/)
 * [Bunyan Pro](https://canadatype.com/product/bunyan-pro/)
+* [Sita Superfamily](https://order.design/otf/sita) - Scotch Roman and grotesque sans
+* [NaN Tragedy](https://www.nan.xyz/fonts/nan-tragedy/) - strong calligraphic personality, almost reverse shaded
+* [Caslonian](https://typofonderie.com/fonts/caslonian-small) - optical sizes; attractive display shadeds!
 
 ### ENGINEERING FACES
 
@@ -272,6 +277,7 @@
 * [DJR Output](https://djr.com/output)
 * [Zed Text](https://www.typotheque.com/fonts/zed-text) - strongly Frutiger-esque; many weights; condensed and wide
 * [Zeitung Micro/Macro](https://www.underware.nl/fonts/zeitung)
+* [NaN Serf](https://www.nan.xyz/fonts/nan-serf/) - optical sizes down to Micro
 
 ### MISC
 
