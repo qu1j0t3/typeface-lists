@@ -59,6 +59,9 @@
 * [Backpacker.gr](https://backpacker.gr/)
 * [Nouvelle Noir](https://nouvellenoire.ch/type-collection/)
 * [Canada Type](https://canadatype.com/fonts/)
+* [F37 Foundry](https://www.f37foundry.com/)
+* [Typografische](https://www.typografische.com/)
+* [Feliciano Type](https://felicianotype.com/)
 
 ### DO NOT USE FOR BODY
 
@@ -97,6 +100,8 @@
 * [Figtree](https://www.erikdkennedy.com/projects/figtree.html)
 * [FF Basic Gothic](https://www.hvdfonts.com/fonts/ff-basic-gothic)
 * [FF Niveau Grotesk](https://www.hvdfonts.com/fonts/niveau-grotesk)
+* [Hex Franklin](https://hex.xyz/HEX_Franklin/) - an homage to the classic Franklin Gothic type family & News Gothic and Lightline Gothic. The design draws specifically from ATF’s original fonts for letterpress printing
+* [Marcin Antique](https://felicianotype.com/typefaces/marcin-antique/)
 
 ### BOOK SERIFS
 
@@ -177,7 +182,7 @@
 * Freight Pro
 * Quiosco - Cyrus Highsmith
 * [Cardo](https://fonts.google.com/specimen/Cardo) - Aldine / Bembo, free
-* [Graveur](https://v-fonts.com/fonts/graveur-variable) - Granjon, variable
+* [Graveur](https://v-fonts.com/fonts/graveur-variable) - Granjon, variable; also [here](https://www.juanjez.com/typefaces/graveur/)
 * [Fern](https://v-fonts.com/fonts/fern-variable) - lovely Venetian by DJR
 * [Pantheon](https://www.grillitype.com/blog/typeface-stories/gt-pantheon-type-story) - wow, just read it...
 * [Acta](https://v-fonts.com/fonts/acta-var)
@@ -195,6 +200,8 @@
 * [Sita Superfamily](https://order.design/otf/sita) - Scotch Roman and grotesque sans
 * [NaN Tragedy](https://www.nan.xyz/fonts/nan-tragedy/) - strong calligraphic personality, almost reverse shaded
 * [Caslonian](https://typofonderie.com/fonts/caslonian-small) - optical sizes; attractive display shadeds!
+* [Merlo Original](https://felicianotype.com/typefaces/merlo/) - hat tip @jaimes.bsky.social
+* [Kornel](https://www.c-a-s-t.com/typefaces/kornel/)
 
 ### ENGINEERING FACES
 
