@@ -62,6 +62,9 @@
 * [F37 Foundry](https://www.f37foundry.com/)
 * [Typografische](https://www.typografische.com/)
 * [Feliciano Type](https://felicianotype.com/)
+* [Juanjo López](https://www.juanjez.com/)
+* [Forgotten Shapes](https://forgotten-shapes.com/)
+* [Vectro](https://www.vectrotype.com/)
 
 ### DO NOT USE FOR BODY
 
@@ -102,6 +105,11 @@
 * [FF Niveau Grotesk](https://www.hvdfonts.com/fonts/niveau-grotesk)
 * [Hex Franklin](https://hex.xyz/HEX_Franklin/) - an homage to the classic Franklin Gothic type family & News Gothic and Lightline Gothic. The design draws specifically from ATF’s original fonts for letterpress printing
 * [Marcin Antique](https://felicianotype.com/typefaces/marcin-antique/)
+* [Information](https://forgotten-shapes.com/information)
+* [Bion](https://fonts.ilovetypography.com/fonts/type-forward/bion)
+* [Lost](https://www.205.tf/lost) - rounded, signage, includes a highly compressed
+* [Tausend](https://fontwerk.com/en/text/tausend) - homage to Akzidenz Grotesk, includes Soft variant, optical sizes
+* [Push](https://fontwerk.com/en/text/push) - eight weights, seven widths, display grotesque
 
 ### BOOK SERIFS
 
@@ -202,6 +210,8 @@
 * [Caslonian](https://typofonderie.com/fonts/caslonian-small) - optical sizes; attractive display shadeds!
 * [Merlo Original](https://felicianotype.com/typefaces/merlo/) - hat tip @jaimes.bsky.social
 * [Kornel](https://www.c-a-s-t.com/typefaces/kornel/)
+* [Dejanire](https://www.re-type.com/fonts/dejanire/text-regular/)
+* [Heldane Text](https://klim.co.nz/blog/heldane-design-information/)
 
 ### ENGINEERING FACES
 
@@ -212,20 +222,20 @@
 
 ### ALTERNATIVES TO HELVETICA
 
-* [New Atten/](https://newlyn.com/fonts/new-atten/) - Gill Sans/Johnston revival
-* [Mikola/](https://otherwherecollective.com/mikola/)
+* [New Atten](https://newlyn.com/fonts/new-atten/) - Gill Sans/Johnston revival
+* [Mikola](https://otherwherecollective.com/mikola/)
   - great blackletter sibling [otherwherecollective.com/carpe-noctem/](https://otherwherecollective.com/carpe-noctem/)
   - haha letterpress mould [otherwherecollective.com/prixel/](https://otherwherecollective.com/prixel/)
-* [Nure/](https://fsd.it/shop/fonts/nure/) superfamily
+* [Nure](https://fsd.it/shop/fonts/nure/) superfamily
 * [Juneau](https://type.today/en/journal/juneau) - geometric sans
 * [www.area-font.eu/](https://www.area-font.eu/) - geometric sans, superfamily, inktraps
-* [Barlow/](https://tribby.com/fonts/barlow/) - superfamily grotesque
-* [Abitare-sans/](https://fsd.it/shop/fonts/abitare-sans/) - geometric sans
+* [Barlow](https://tribby.com/fonts/barlow/) - superfamily grotesque
+* [Abitare-sans](https://fsd.it/shop/fonts/abitare-sans/) - geometric sans
 * [Baton](https://www.fatype.com/typefaces/baton) - elegant grotesque superfamily
 * [latino-gothic-font-latinotype](https://www.myfonts.com/collections/latino-gothic-font-latinotype) - grotesque superfamily, many condensed/compressed
 * [vercel.com/font](https://vercel.com/font) - geometric sans
 * [Mohr](https://www.fontspring.com/fonts/latinotype/mohr) - humanist sans
-* [Polysans-wide/](https://www.wearegradient.net/typefaces/polysans-wide/) - geometric sans, inktraps
+* [Polysans-wide](https://www.wearegradient.net/typefaces/polysans-wide/) - geometric sans, inktraps
 * ~~[Rom](https://abcdinamo.com/typefaces/rom) - grotesque superfamily, condensed, compressed~~ - Boycott Dinamo until they repudiate 'ai' and their collaboration with OpenAI, a criminal enterprise
 * [icona-sans](https://www.suitcasetype.com/fonts/icona-sans) - beautiful grotesque
 * [lipo](https://www.suitcasetype.com/fonts/lipo) - metro-ish? superfamily. condensed/compressed/wide
@@ -234,7 +244,7 @@
 * [archivo](https://www.omnibus-type.com/fonts/archivo/)
 * [suisse](https://www.swisstypefaces.com/fonts/suisse/#font) - superfamily incl serif, mono
 * [Abc-walter-neue](https://fontsinuse.com/typefaces/199162/abc-walter-neue) - univers-like
-* [Numero-02/](https://black-foundry.com/fonts/numero-02/) - very clean gothic
+* [Numero-02](https://black-foundry.com/fonts/numero-02/) - very clean gothic
 * [Abc-favorit](https://fontsinuse.com/typefaces/41429/abc-favorit)
 * [Alte-haas-grotesk](https://fontsinuse.com/typefaces/82632/alte-haas-grotesk)
 * [Halvar](https://fontsinuse.com/typefaces/104111/halvar)
@@ -249,6 +259,8 @@
 * [Snaga](https://www.lettersoup.de/product-category/snagaarabictext/) - with Arabic
 * [Exat](https://exat.hottype.co/)
 * [Aeonik](https://cotypefoundry.com/our-fonts/aeonik)
+* [Hypertext](https://www.dblzr.com/fonts/00-hypertext)
+* [New Haas Grotesk](https://typographica.org/typeface-reviews/neue-haas-grotesk/)
 
 ### MONOSPACE
 
@@ -274,6 +286,7 @@
 * [Muoto Mono](https://www.205.tf/muoto-mono) - pleasant!
 * [Spot Mono](https://www.schick-toikka.com/spot-mono) - lovely, rounded, attractive and friendshaped
 * [RT Dromo](https://www.rt-dromo.com/)
+* [Scribbletone Iso](https://www.scribbletone.com/typefaces/iso)
 
 ### UTILITY
 
@@ -285,6 +298,7 @@
 * [Zed Text](https://www.typotheque.com/fonts/zed-text) - strongly Frutiger-esque; many weights; condensed and wide
 * [Zeitung Micro/Macro](https://www.underware.nl/fonts/zeitung)
 * [NaN Serf](https://www.nan.xyz/fonts/nan-serf/) - optical sizes down to Micro
+* [F37 Beckett](https://www.f37foundry.com/fonts/f37-beckett)
 
 ### MISC
 
