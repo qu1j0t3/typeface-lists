@@ -28,7 +28,7 @@
 * [www.mvbfonts.com](https://www.mvbfonts.com/browse/fonts)
 * [studiotype.com](https://studiotype.com/)
 * [www.typemates.com](https://www.typemates.com/) - some lovely geometric sans, characterful text faces, monospaces
-* [connary.com](https://connary.com/fonts.html)
+* [Connary Fagen](https://connary.com/fonts.html)
 * [blackletra.com](https://blackletra.com/)
 * [hottype.co](https://hottype.co/fonts)
 * [www.sharptype.co](https://www.sharptype.co/typefaces)
@@ -65,6 +65,7 @@
 * [Juanjo López](https://www.juanjez.com/)
 * [Forgotten Shapes](https://forgotten-shapes.com/)
 * [Vectro](https://www.vectrotype.com/)
+* [Signal](https://signalfoundry.com/)
 
 ### DO NOT USE FOR BODY
 
@@ -141,7 +142,7 @@
 * [Neuton](https://fonts.google.com/specimen/Neuton) - compact, robust, monolinear
 * [Canela](https://commercialtype.com/catalog/canela/canela) - caslon... transitional...
 * [sole-serif](https://www.myfonts.com/products/sole-serif-complete-family-package-76428) - optical sizes, handsome, robust
-* [garalda-font-type-together](https://www.myfonts.com/collections/garalda-font-type-together) - elegant garamond revival
+* [Garalda](https://www.type-together.com/garalda-font) - elegant garamond revival
 * [ashbury-font-hoftype](https://www.myfonts.com/collections/ashbury-font-hoftype) - caslon-esque
 * [legitima-font-cesar-puertas](https://www.myfonts.com/collections/legitima-font-cesar-puertas) - italianate? venetian????? aldine????
 * [Elena/](https://processtypefoundry.com/fonts/elena/) - calligraphic, nice italic
@@ -212,6 +213,11 @@
 * [Kornel](https://www.c-a-s-t.com/typefaces/kornel/)
 * [Dejanire](https://www.re-type.com/fonts/dejanire/text-regular/)
 * [Heldane Text](https://klim.co.nz/blog/heldane-design-information/)
+* [Register](https://a2-type.co.uk/register)
+* [LfA Aluminia](https://letterformarchive.org/shop/lfa-aluminia-fonts/) revival of Dwiggins’ Electra
+* [Signifier](https://klim.co.nz/retail-fonts/signifier/#specimens) - “brutalist” inspired by Fell Types
+* [Montris](https://www.r-typography.com/fonts/montris-s) - Modern/Scotch Roman, optical sizes
+* [Reckham](https://signalfoundry.com/typefaces/reckham) - Clarendon/Scotch Roman, optical sizes and versatile series
 
 ### ENGINEERING FACES
 
@@ -261,6 +267,7 @@
 * [Aeonik](https://cotypefoundry.com/our-fonts/aeonik)
 * [Hypertext](https://www.dblzr.com/fonts/00-hypertext)
 * [New Haas Grotesk](https://typographica.org/typeface-reviews/neue-haas-grotesk/)
+* [New Rail Alphabet](https://a2-type.co.uk/new-rail-alphabet)
 
 ### MONOSPACE
 
@@ -299,6 +306,7 @@
 * [Zeitung Micro/Macro](https://www.underware.nl/fonts/zeitung)
 * [NaN Serf](https://www.nan.xyz/fonts/nan-serf/) - optical sizes down to Micro
 * [F37 Beckett](https://www.f37foundry.com/fonts/f37-beckett)
+* [Bureausign](https://bureau.rocks/projects/bureausign/) - wayfinding
 
 ### MISC
 
