@@ -66,6 +66,11 @@
 * [Forgotten Shapes](https://forgotten-shapes.com/)
 * [Vectro](https://www.vectrotype.com/)
 * [Signal](https://signalfoundry.com/)
+* [Luzi Type](https://luzi-type.ch/typefaces)
+* [Dizajn Design](https://dizajndesign.sk/en/fonts)
+* [Modern Type](https://www.modern-type.com) - multilingual
+* [Lettermatic](https://lettermatic.com/)
+* [CakeType](https://www.caketype.com)
 
 ### DO NOT USE FOR BODY
 
@@ -95,7 +100,7 @@
 * [Taurus Grotesk](https://www.fostertype.com/retail-type/taurus-grotesk)
 * [So Ray](https://so-type.com/retail/so-ray/)
 * [Typonine Sans](https://www.typotheque.com/fonts/typonine-sans)
-* [Lygia Sans](https://www.flaviazim.com/typefaces/lygia-sans)
+* [Lygia Sans](https://www.flaviazim.com/typefaces/lygia-sans) - stunning humanist sans
 * [Clara Sans](https://www.stormtype.com/families/clara-sans) - superfamily including serif
 * [Ador](https://www.fontador.de/fonts-shop/ador-hairline/) - lovely high contrast humanist sans
 * [Lektorat](https://v-fonts.com/fonts/lektorat-var)
@@ -218,6 +223,8 @@
 * [Signifier](https://klim.co.nz/retail-fonts/signifier/#specimens) - “brutalist” inspired by Fell Types
 * [Montris](https://www.r-typography.com/fonts/montris-s) - Modern/Scotch Roman, optical sizes
 * [Reckham](https://signalfoundry.com/typefaces/reckham) - Clarendon/Scotch Roman, optical sizes and versatile series
+* {Parclo Serif](https://lettermatic.com/fonts/parclo-serif)
+* [Eskorte](https://rosettatype.com/EskorteLatin)
 
 ### ENGINEERING FACES
 
@@ -254,10 +261,10 @@
 * [Abc-favorit](https://fontsinuse.com/typefaces/41429/abc-favorit)
 * [Alte-haas-grotesk](https://fontsinuse.com/typefaces/82632/alte-haas-grotesk)
 * [Halvar](https://fontsinuse.com/typefaces/104111/halvar)
-* [Articulat.html](https://connary.com/articulat.html)
+* [Articulat](https://connary.com/articulat.html)
 * [Geigy](https://lineto.com/typefaces/geigy)
 * [Datei-grotesk](https://fontstand.com/fonts/datei-grotesk)
-* [Yep! Innovator Grotesk](https://visuelle.co.uk/innovator-grotesk/)
+* [Yep! Innovator Grotesk](https://www.yeptype.com/fonts/innovator-grotesk)
 * [Wix Madefor](https://fonts.google.com/specimen/Wix+Madefor+Text)
 * [Aiglon](https://typofonderie.com/fonts/aiglon)
 * [Airport](https://airport.revolvertype.com/)
@@ -268,6 +275,9 @@
 * [Hypertext](https://www.dblzr.com/fonts/00-hypertext)
 * [New Haas Grotesk](https://typographica.org/typeface-reviews/neue-haas-grotesk/)
 * [New Rail Alphabet](https://a2-type.co.uk/new-rail-alphabet)
+* [Yetson Sans](https://luzi-type.ch/yetson)
+* [Europa Prima](https://productiontype.com/europa-prima)
+* [Schwiss](https://a2-type.co.uk/schwiss)
 
 ### MONOSPACE
 
