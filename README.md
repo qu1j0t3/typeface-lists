@@ -167,7 +167,7 @@
 * [Drummond](https://blackletra.com/typefaces/drummond)
 * [olympian-font-linotype](https://www.myfonts.com/collections/olympian-font-linotype) - Matthew Carter
 * [thanatos](https://www.herzbergdesign.com/thanatos) - optical sizes
-* [Nicholas-font-family-a-modern-classic-from-shinntype/](https://artifyassets.com/nicholas-font-family-a-modern-classic-from-shinntype/)
+* [Nicholas-font-family-a-modern-classic-from-shinntype/](https://shinntype.com/nicholas-2/)
 * [calvino](https://www.zetafonts.com/calvino)
 * [Sharp Serif](https://www.sharptype.co/typefaces/sharp-serif-omni)
 * [Dover Text](https://tinytype.co/type/dover-text)
@@ -225,13 +225,6 @@
 * [Reckham](https://signalfoundry.com/typefaces/reckham) - Clarendon/Scotch Roman, optical sizes and versatile series
 * {Parclo Serif](https://lettermatic.com/fonts/parclo-serif)
 * [Eskorte](https://rosettatype.com/EskorteLatin)
-
-### ENGINEERING FACES
-
-* [gorton engraving](https://luc.devroye.org/fonts-80708.html)
-* [Ruted-gothic](https://webonastick.com/fonts/routed-gothic/) - revival of gorton
-  - links to Bryant [Bryant-2](https://processtypefoundry.com/fonts/bryant-2/) rounded Wrico
-* [Sweet Sans](https://www.mvbfonts.com/pdfs/SweetSansSpecimen.pdf)
 
 ### ALTERNATIVES TO HELVETICA
 
@@ -305,18 +298,24 @@
 * [RT Dromo](https://www.rt-dromo.com/)
 * [Scribbletone Iso](https://www.scribbletone.com/typefaces/iso)
 
-### UTILITY
+### UTILITY AND ENGINEERING/ENGRAVING
 
 * [Retina](https://frerejones.com/families/retina) - small size, data, ink traps
-* Breeze Sans
-* HarmonyOS Sans
-* Radio Canada
+* [Breeze Sans](https://en.wikipedia.org/wiki/Breeze_Sans) - note, free download via “external links”
+* [HarmonyOS Sans](https://github.com/huawei-fonts/HarmonyOS-Sans)
+* [Radio Canada](https://www.charlesdaoud.com/en/custom-fonts/radio-canada-typeface/) - available via Google Fonts
 * [DJR Output](https://djr.com/output)
 * [Zed Text](https://www.typotheque.com/fonts/zed-text) - strongly Frutiger-esque; many weights; condensed and wide
 * [Zeitung Micro/Macro](https://www.underware.nl/fonts/zeitung)
 * [NaN Serf](https://www.nan.xyz/fonts/nan-serf/) - optical sizes down to Micro
 * [F37 Beckett](https://www.f37foundry.com/fonts/f37-beckett)
 * [Bureausign](https://bureau.rocks/projects/bureausign/) - wayfinding
+* [gorton engraving](https://luc.devroye.org/fonts-80708.html)
+* [Routed-gothic](https://webonastick.com/fonts/routed-gothic/) - revival of gorton
+  - links to Bryant [Bryant-2](https://processtypefoundry.com/fonts/bryant-2/) rounded Wrico
+* [Sweet Sans](https://www.mvbfonts.com/pdfs/SweetSansSpecimen.pdf)
+* [Relief-SingleLine](https://github.com/isdat-type/Relief-SingleLine)
+* [Action Text](https://commercialtype.com/catalog/action_text)
 
 ### MISC
 
