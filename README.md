@@ -71,6 +71,7 @@
 * [Modern Type](https://www.modern-type.com) - multilingual
 * [Lettermatic](https://lettermatic.com/)
 * [CakeType](https://www.caketype.com)
+* [FloodFonts](https://www.floodfonts.com/#commercial)
 
 ### DO NOT USE FOR BODY
 
@@ -116,6 +117,8 @@
 * [Lost](https://www.205.tf/lost) - rounded, signage, includes a highly compressed
 * [Tausend](https://fontwerk.com/en/text/tausend) - homage to Akzidenz Grotesk, includes Soft variant, optical sizes
 * [Push](https://fontwerk.com/en/text/push) - eight weights, seven widths, display grotesque
+* [FF Balance] - Bloesma
+* [Neuwelt](https://jensgehlhaar.com/Neuwelt-An-optimistic-transatlantic-sans-serif-type-family) - notes of Antique Olive
 
 ### BOOK SERIFS
 
@@ -225,6 +228,7 @@
 * [Reckham](https://signalfoundry.com/typefaces/reckham) - Clarendon/Scotch Roman, optical sizes and versatile series
 * {Parclo Serif](https://lettermatic.com/fonts/parclo-serif)
 * [Eskorte](https://rosettatype.com/EskorteLatin)
+* [Tuna](https://floodfonts.com/tuna/)
 
 ### ALTERNATIVES TO HELVETICA
 
