@@ -119,6 +119,7 @@
 * [Push](https://fontwerk.com/en/text/push) - eight weights, seven widths, display grotesque
 * [FF Balance] - Bloesma
 * [Neuwelt](https://jensgehlhaar.com/Neuwelt-An-optimistic-transatlantic-sans-serif-type-family) - notes of Antique Olive
+* [Common Shapes](https://processtypefoundry.com/fonts/common-shapes/try-it)
 
 ### BOOK SERIFS
 
@@ -229,6 +230,11 @@
 * {Parclo Serif](https://lettermatic.com/fonts/parclo-serif)
 * [Eskorte](https://rosettatype.com/EskorteLatin)
 * [Tuna](https://floodfonts.com/tuna/)
+* [Publico Text](https://commercialtype.com/catalog/publico/publico_text/roman)
+* [Essonnes](https://jtdtype.com/typeface/Essonnes) - beautiful Didone, with Dramatic display and hardworking Text
+* [Romek Sharp & Romek Rounded](https://www.thedesignersfoundry.com/romek)
+* [Faustina](https://www.omnibus-type.com/fonts/faustina/)
+* [Ivar Text](https://lettersfromsweden.se/font/ivar-text/)
 
 ### ALTERNATIVES TO HELVETICA
 
