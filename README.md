@@ -72,6 +72,7 @@
 * [Lettermatic](https://lettermatic.com/)
 * [CakeType](https://www.caketype.com)
 * [FloodFonts](https://www.floodfonts.com/#commercial)
+* [PampaType](https://pampatype.com/)
 
 ### DO NOT USE FOR BODY
 
@@ -120,6 +121,7 @@
 * [FF Balance] - Bloesma
 * [Neuwelt](https://jensgehlhaar.com/Neuwelt-An-optimistic-transatlantic-sans-serif-type-family) - notes of Antique Olive
 * [Common Shapes](https://processtypefoundry.com/fonts/common-shapes/try-it)
+* [Supreme](https://lineto.com/typefaces/supreme) - essentially a Futura revival
 
 ### BOOK SERIFS
 
@@ -227,7 +229,7 @@
 * [Signifier](https://klim.co.nz/retail-fonts/signifier/#specimens) - “brutalist” inspired by Fell Types
 * [Montris](https://www.r-typography.com/fonts/montris-s) - Modern/Scotch Roman, optical sizes
 * [Reckham](https://signalfoundry.com/typefaces/reckham) - Clarendon/Scotch Roman, optical sizes and versatile series
-* {Parclo Serif](https://lettermatic.com/fonts/parclo-serif)
+* [Parclo Serif](https://lettermatic.com/fonts/parclo-serif)
 * [Eskorte](https://rosettatype.com/EskorteLatin)
 * [Tuna](https://floodfonts.com/tuna/)
 * [Publico Text](https://commercialtype.com/catalog/publico/publico_text/roman)
@@ -235,6 +237,11 @@
 * [Romek Sharp & Romek Rounded](https://www.thedesignersfoundry.com/romek)
 * [Faustina](https://www.omnibus-type.com/fonts/faustina/)
 * [Ivar Text](https://lettersfromsweden.se/font/ivar-text/)
+* [Zenon](https://www.c-a-s-t.com/typefaces/zenon/)
+* [Louize](https://www.205.tf/louize)
+* [Gieo Text](https://fonts.ilovetypography.com/fonts/%C3%A1ccentiatype/gieo-text)
+* [Syllabus](https://www.matterofsorts.com/) - Plantin/Granjon revival
+* [Spezia Serif](https://luzi-type.ch/spezia-serif)
 
 ### ALTERNATIVES TO HELVETICA
 
@@ -281,6 +288,12 @@
 * [Yetson Sans](https://luzi-type.ch/yetson)
 * [Europa Prima](https://productiontype.com/europa-prima)
 * [Schwiss](https://a2-type.co.uk/schwiss)
+* [Crit](https://elementtype.co/crit/)
+* [Akkurat](https://lineto.com/typefaces/akkurat)
+* [Zed](https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century)
+* [Turnery](https://www.matterofsorts.com/)
+* [Swiza](https://www.atipofoundry.com/fonts/swiza)
+* [Mori](https://pangrampangram.com/products/mori)
 
 ### MONOSPACE
 
