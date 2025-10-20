@@ -73,6 +73,7 @@
 * [CakeType](https://www.caketype.com)
 * [FloodFonts](https://www.floodfonts.com/#commercial)
 * [PampaType](https://pampatype.com/)
+* [Store Norske Skriftkompani](https://skriftkompani.no/)
 
 ### DO NOT USE FOR BODY
 
@@ -122,6 +123,8 @@
 * [Neuwelt](https://jensgehlhaar.com/Neuwelt-An-optimistic-transatlantic-sans-serif-type-family) - notes of Antique Olive
 * [Common Shapes](https://processtypefoundry.com/fonts/common-shapes/try-it)
 * [Supreme](https://lineto.com/typefaces/supreme) - essentially a Futura revival
+* [Yuni Grotesque](https://www.typemates.com/fonts/yuni-grotesque) - characterful, condensed
+* [Malmö](https://fontsinuse.com/typefaces/2676/malmo-sans)
 
 ### BOOK SERIFS
 
@@ -242,6 +245,7 @@
 * [Gieo Text](https://fonts.ilovetypography.com/fonts/%C3%A1ccentiatype/gieo-text)
 * [Syllabus](https://www.matterofsorts.com/) - Plantin/Granjon revival
 * [Spezia Serif](https://luzi-type.ch/spezia-serif)
+* [Store Norske Litteratur](https://fontsinuse.com/typefaces/245411/store-norske-litteratur)
 
 ### ALTERNATIVES TO HELVETICA
 
@@ -294,6 +298,8 @@
 * [Turnery](https://www.matterofsorts.com/)
 * [Swiza](https://www.atipofoundry.com/fonts/swiza)
 * [Mori](https://pangrampangram.com/products/mori)
+* [Modern Gothic](https://www.allcapstype.com/typefaces/modern-gothic)
+* [SN Skandia](https://skriftkompani.no/)
 
 ### MONOSPACE
 
