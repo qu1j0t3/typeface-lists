@@ -44,7 +44,7 @@
 * [Letter Soup](https://www.lettersoup.de) - many interesting sans, including unicase
 * [The Pyte Foundry](https://thepytefoundry.net) - quirky revivals, including compressed grotesque
 * [The Designers Foundry](https://www.thedesignersfoundry.com/typefaces)
-* Canada Type
+* [Canada Type](https://canadatype.com/fonts/)
 * [Process Type](https://processtypefoundry.com/fonts/)
 * [NewGlyph](https://newglyph.com/)
 * [Contrast Foundry](https://contrastfoundry.com/)
@@ -74,6 +74,7 @@
 * [FloodFonts](https://www.floodfonts.com/#commercial)
 * [PampaType](https://pampatype.com/)
 * [Store Norske Skriftkompani](https://skriftkompani.no/)
+* [TypeBy](https://www.typeby.com/)
 
 ### DO NOT USE FOR BODY
 
@@ -206,7 +207,7 @@
 * Quiosco - Cyrus Highsmith
 * [Cardo](https://fonts.google.com/specimen/Cardo) - Aldine / Bembo, free
 * [Graveur](https://v-fonts.com/fonts/graveur-variable) - Granjon, variable; also [here](https://www.juanjez.com/typefaces/graveur/)
-* [Fern](https://v-fonts.com/fonts/fern-variable) - lovely Venetian by DJR
+* [Fern](https://djr.com/fern/) - lovely Venetian by DJR
 * [Pantheon](https://www.grillitype.com/blog/typeface-stories/gt-pantheon-type-story) - wow, just read it...
 * [Acta](https://v-fonts.com/fonts/acta-var)
 * [Caslon Ionic Rounded](https://vault.commercialtype.com/vault/caslon_ionic_rounded) - basically what it says on the tin - lovely
@@ -246,6 +247,11 @@
 * [Syllabus](https://www.matterofsorts.com/) - Plantin/Granjon revival
 * [Spezia Serif](https://luzi-type.ch/spezia-serif)
 * [Store Norske Litteratur](https://fontsinuse.com/typefaces/245411/store-norske-litteratur)
+* [Arnhem](https://www.typeby.com/fonts/arnhem)
+* [Neacademia](https://rosettatype.com/Neacademia) - hat tip Salt (publisher)
+* [Paperback](https://housefonts.com/hi/paperback) - hat tip Salt
+* [Rekja](https://nouvellenoire.ch/product/rekja/)
+* [Weymann Serif](https://www.typemates.com/fonts/weymann-serif)
 
 ### ALTERNATIVES TO HELVETICA
 
@@ -300,6 +306,9 @@
 * [Mori](https://pangrampangram.com/products/mori)
 * [Modern Gothic](https://www.allcapstype.com/typefaces/modern-gothic)
 * [SN Skandia](https://skriftkompani.no/)
+* [Fakt](https://www.typeby.com/fonts/fakt)
+* [Muoto](https://www.205.tf/muoto)
+* [Nacelle](https://dotcolon.net/fonts/nacelle/) - free
 
 ### MONOSPACE
 
@@ -345,6 +354,7 @@
 * [Sweet Sans](https://www.mvbfonts.com/pdfs/SweetSansSpecimen.pdf)
 * [Relief-SingleLine](https://github.com/isdat-type/Relief-SingleLine)
 * [Action Text](https://commercialtype.com/catalog/action_text)
+* [SN Minimal](https://skriftkompani.no/typefaces/minimal)
 
 ### MISC
 
