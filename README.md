@@ -252,6 +252,7 @@
 * [Paperback](https://housefonts.com/hi/paperback) - hat tip Salt
 * [Rekja](https://nouvellenoire.ch/product/rekja/)
 * [Weymann Serif](https://www.typemates.com/fonts/weymann-serif)
+* [Anselm Serif](https://www.stormtype.com/families/anselm-serif) - hat tip Jaime Silvela
 
 ### ALTERNATIVES TO HELVETICA
 
