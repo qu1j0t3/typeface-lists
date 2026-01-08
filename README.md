@@ -85,7 +85,6 @@
 
 * [Dia](https://www.schick-toikka.com/dia) - lovely grotesque
 * [Alegreya Sans](https://fonts.google.com/specimen/Alegreya+Sans?preview.text=dolphin) - humanist sans, lovely italic
-* [playpen-sans-font](https://www.type-together.com/playpen-sans-font) - handwriting
 * [djr Forma](https://djr.com/forma) - impressive revival - optical sizes
 * [supria-sans](https://www.hvdfonts.com/fonts/supria-sans#)
 * [Varela Round](https://fonts.google.com/specimen/Varela+Round)
@@ -130,30 +129,30 @@
 ### BOOK SERIFS
 
 * [Harriet](https://okaytype.com/harriet#specimens) - revives Baskerville via Scotch Romans
-* [legacy.lineto.com/](https://legacy.lineto.com/) ; https://lineto.com/typefaces/bradford/ - LL Bradford - revives Plantinesques
+* [LL Bradford](https://lineto.com/typefaces/bradford/) - revives Plantinesques
 * [Crimson Pro](https://fonts.google.com/specimen/Crimson+Pro)
 * [Old Standard TT](https://fonts.google.com/specimen/Old+Standard+TT) - Century, condensed-ish
-* [ploquine-font](https://www.type-together.com/ploquine-font) - elegant slab serif
+* [Ploquine](https://www.type-together.com/ploquine-font) - elegant slab serif
 * [Make](https://www.fatype.com/typefaces/make) - Plantin inspired
-* [jt-peleton](https://www.julytype.com/typefaces/jt-peleton)
-* [nocturno](https://www.typotheque.com/fonts/nocturno) - great, egyptian/plantinesque
-* [bluteau-pro](https://www.dstype.com/fonts/bluteau-pro) - optical sizes
+* [JT Peleton](https://www.julytype.com/typefaces/jt-peleton)
+* [Nocturno](https://www.typotheque.com/fonts/nocturno) - great, egyptian/plantinesque
+* [Bluteau Pro](https://www.dstype.com/fonts/bluteau-pro) - optical sizes
 * [Farnham](https://store.typenetwork.com/foundry/orangeitalic/series/farnham) - nice optical sizes
-* [meret](https://www.typemates.com/fonts/meret) - compact, newspaper
-* [pensum-pro](https://www.typemates.com/fonts/pensum-pro) - lovely book face
+* [Meret](https://www.typemates.com/fonts/meret) - compact, newspaper
+* [Pensum Pro](https://www.typemates.com/fonts/pensum-pro) - lovely book face
 * [Bridge Text](https://www.typemates.com/fonts/bridge-text)
-* [teimer](https://www.suitcasetype.com/fonts/teimer/styles) - stunning didone
-* [crabath](https://www.suitcasetype.com/fonts/crabath) - gorgeous garamondesque - optical sizes
-* [icona-serif](https://www.suitcasetype.com/fonts/icona-serif) - a plantin ?
-* [Duplicate_ionic](https://commercialtype.com/catalog/duplicate_ionic) - clarendon, compact
-* [Galaxie-copernicus/](https://fontreviewjournal.com/galaxie-copernicus/) - outstanding plantin revival
-* [literata-font](https://www.type-together.com/literata-font) - superfamily, optical sizes
-* [Gamuth-text](https://productiontype.com/font/gamuth/gamuth-text) - “dutch baroque”
-* [ingeborg-font-typejockeys](https://www.myfonts.com/collections/ingeborg-font-typejockeys) - display and text, didone
-* [chronicle-text](https://www.typography.com/fonts/chronicle-text/overview) - “blended scotch”
-* [fulmar-font-cast/](https://www.myfonts.com/collections/fulmar-font-cast/) - “modern scotch”
-* [calvino-font-zetafonts](https://www.myfonts.com/collections/calvino-font-zetafonts) - garalde; text/display
-* [passenger-serif-font-indian-type-foundry](https://www.myfonts.com/collections/passenger-serif-font-indian-type-foundry) - clarendon
+* [Teimer](https://www.suitcasetype.com/fonts/teimer/styles) - stunning didone
+* [Crabath](https://www.suitcasetype.com/fonts/crabath) - gorgeous garamondesque - optical sizes
+* [Icona Serif](https://www.suitcasetype.com/fonts/icona-serif) - a plantin ?
+* [Duplicate Ionic](https://commercialtype.com/catalog/duplicate_ionic) - clarendon, compact
+* [Galaxie Copernicus/](https://fontreviewjournal.com/galaxie-copernicus/) - outstanding plantin revival
+* [Literata](https://www.type-together.com/literata-font) - superfamily, optical sizes
+* [Gamuth Text](https://productiontype.com/font/gamuth/gamuth-text) - “dutch baroque”
+* [Ingeborg](https://www.myfonts.com/collections/ingeborg-font-typejockeys) - display and text, didone
+* [Chronicle Text](https://www.typography.com/fonts/chronicle-text/overview) - “blended scotch”
+* [Fulmar](https://www.myfonts.com/collections/fulmar-font-cast/) - “modern scotch”
+* [Calvino](https://www.myfonts.com/collections/calvino-font-zetafonts) - garalde; text/display
+* [Passenger-serif](https://www.myfonts.com/collections/passenger-serif-font-indian-type-foundry) - clarendon
 * [Neuton](https://fonts.google.com/specimen/Neuton) - compact, robust, monolinear
 * [Canela](https://commercialtype.com/catalog/canela/canela) - caslon... transitional...
 * [sole-serif](https://www.myfonts.com/products/sole-serif-complete-family-package-76428) - optical sizes, handsome, robust
@@ -237,7 +236,8 @@
 * [Eskorte](https://rosettatype.com/EskorteLatin)
 * [Tuna](https://floodfonts.com/tuna/)
 * [Publico Text](https://commercialtype.com/catalog/publico/publico_text/roman)
-* [Essonnes](https://jtdtype.com/typeface/Essonnes) - beautiful Didone, with Dramatic display and hardworking Text
+* [Essonnes](https://jtdtype.com
+* [Newsreader](https://productiontype.com/font/newsreader) - optical sizes, also partly free on Google Fonts/typeface/Essonnes) - beautiful Didone, with Dramatic display and hardworking Text
 * [Romek Sharp & Romek Rounded](https://www.thedesignersfoundry.com/romek)
 * [Faustina](https://www.omnibus-type.com/fonts/faustina/)
 * [Ivar Text](https://lettersfromsweden.se/font/ivar-text/)
@@ -253,6 +253,9 @@
 * [Rekja](https://nouvellenoire.ch/product/rekja/)
 * [Weymann Serif](https://www.typemates.com/fonts/weymann-serif)
 * [Anselm Serif](https://www.stormtype.com/families/anselm-serif) - hat tip Jaime Silvela
+* [Face](https://extraset.ch/typefaces/face/) - beautiful serif - including display
+* [Newsreader](https://productiontype.com/font/newsreader) - optical sizes, also partly free on Google Fonts
+* [Edgar](https://frerejones.com/families/edgar) - Caslon inspired, low contrast text face
 
 ### ALTERNATIVES TO HELVETICA
 
@@ -310,6 +313,7 @@
 * [Fakt](https://www.typeby.com/fonts/fakt)
 * [Muoto](https://www.205.tf/muoto)
 * [Nacelle](https://dotcolon.net/fonts/nacelle/) - free
+* [Elza](https://blackletra.com/typefaces/elza)
 
 ### MONOSPACE
 
@@ -356,6 +360,11 @@
 * [Relief-SingleLine](https://github.com/isdat-type/Relief-SingleLine)
 * [Action Text](https://commercialtype.com/catalog/action_text)
 * [SN Minimal](https://skriftkompani.no/typefaces/minimal)
+
+### INFORMAL SCRIPTS
+
+* [Grato Marker](https://www.typemates.com/fonts/grato-marker)
+* [playpen-sans-font](https://www.type-together.com/playpen-sans-font) - handwriting
 
 ### MISC
 
