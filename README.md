@@ -75,6 +75,8 @@
 * [PampaType](https://pampatype.com/)
 * [Store Norske Skriftkompani](https://skriftkompani.no/)
 * [TypeBy](https://www.typeby.com/)
+* [Jeremy Tankard](https://typography.net/)
+* [Playtype](https://playtype.com/typefaces/)
 
 ### DO NOT USE FOR BODY
 
@@ -184,7 +186,7 @@
 * [Apolline](https://typofonderie.com/fonts/apolline)
 * [Austerlitz](https://typofonderie.com/fonts/austerlitz-petit)
 * [Le Monde](https://typofonderie.com/fonts/le-monde-journal)
-* [Fournier](https://typofonderie.com/fonts/ps-fournier)
+* [Fournier](https://typofonderie.com/fonts/ps-fournier) - optical sizes! gorgeous
 * [Sabon Next](https://typofonderie.com/fonts/sabon-next)
 * [Dato Serif](https://bureau-perraudin.com/typefaces/dato) - this looks very interesting but is not released since 2012!
 * [Blanco](https://www.fostertype.com/retail-type/blanco) - lovely Plantinesque
@@ -256,6 +258,12 @@
 * [Face](https://extraset.ch/typefaces/face/) - beautiful serif - including display
 * [Newsreader](https://productiontype.com/font/newsreader) - optical sizes, also partly free on Google Fonts
 * [Edgar](https://frerejones.com/families/edgar) - Caslon inspired, low contrast text face
+* [Enigma Text](https://typography.net/fonts/enigma-text)
+* [Berlingske Serif Text)[https://playtype.com/typefaces/berlingske-serif-text/]
+* [Bingo Serif Text)[https://playtype.com/typefaces/bingo-serif/]
+* [Primo Serif](https://playtype.com/typefaces/primo-serif/)
+* [GT Alpina](https://www.grillitype.com/typeface/gt-alpina)
+* [Helvetius](https://www.205.tf/helvetius)
 
 ### ALTERNATIVES TO HELVETICA
 
