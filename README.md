@@ -77,6 +77,7 @@
 * [TypeBy](https://www.typeby.com/)
 * [Jeremy Tankard](https://typography.net/)
 * [Playtype](https://playtype.com/typefaces/)
+* [typographies.fr](https://typographies.fr/)
 
 ### DO NOT USE FOR BODY
 
@@ -264,6 +265,9 @@
 * [Primo Serif](https://playtype.com/typefaces/primo-serif/)
 * [GT Alpina](https://www.grillitype.com/typeface/gt-alpina)
 * [Helvetius](https://www.205.tf/helvetius)
+* [Gando](https://www.205.tf/gando) - fantastic Didone with optical sizes
+* [Schotis](https://www.juanjez.com/typefaces/schotis/)
+* [Oculi](https://jtdtype.com/typeface/Oculi)
 
 ### ALTERNATIVES TO HELVETICA
 
