@@ -209,7 +209,7 @@
 * Quiosco - Cyrus Highsmith
 * [Cardo](https://fonts.google.com/specimen/Cardo) - Aldine / Bembo, free
 * [Graveur](https://v-fonts.com/fonts/graveur-variable) - Granjon, variable; also [here](https://www.juanjez.com/typefaces/graveur/)
-* [Fern](https://djr.com/fern/) - lovely Venetian by DJR
+* [Fern](https://djr.com/fern/) - lovely Venetian by DJR with optical sizes
 * [Pantheon](https://www.grillitype.com/blog/typeface-stories/gt-pantheon-type-story) - wow, just read it...
 * [Acta](https://v-fonts.com/fonts/acta-var)
 * [Caslon Ionic Rounded](https://vault.commercialtype.com/vault/caslon_ionic_rounded) - basically what it says on the tin - lovely
@@ -268,6 +268,12 @@
 * [Gando](https://www.205.tf/gando) - fantastic Didone with optical sizes
 * [Schotis](https://www.juanjez.com/typefaces/schotis/)
 * [Oculi](https://jtdtype.com/typeface/Oculi)
+* Anything by Fred Smeijers! e.g. [Haultin](https://www.typeby.com/fonts/haultin) - Beautiful Granjon
+* [Storge](https://bsky.app/profile/infonta.bsky.social/post/3mfr2squ5e22r) - Vera Evstafieva
+* [DTL Documenta](https://www.dutchtypelibrary.nl/Documenta_rdrct.html)
+* [Turnip](https://djr.com/turnip)
+* [Tempera Biblio](https://www.typotheque.com/fonts/tempera-biblio)
+* [Dialogue](https://www.zetafonts.com/dialogue) - Venetian, variable
 
 ### ALTERNATIVES TO HELVETICA
 
@@ -394,3 +400,9 @@
 * [Scandia-line/](https://processtypefoundry.com/fonts/scandia-line/) - line/polygon
 * [Arbale](https://typofonderie.com/fonts/arbale) - sans, "vernacular"
 * [GT Super](https://gt-super.com/) - Perpetua-like headline/display faces
+
+### FREE / Possibilities for LaTeX templates
+
+* [Bitter](https://fonts.google.com/specimen/Bitter) - slab serif - google fonts
+* Newsreader, Work Sans, Karla
+
