@@ -267,13 +267,15 @@
 * [Helvetius](https://www.205.tf/helvetius)
 * [Gando](https://www.205.tf/gando) - fantastic Didone with optical sizes
 * [Schotis](https://www.juanjez.com/typefaces/schotis/)
-* [Oculi](https://jtdtype.com/typeface/Oculi)
+* [Oculi](https://jtdtype.com/typeface/Oculi) - Perpetua-like
 * Anything by Fred Smeijers! e.g. [Haultin](https://www.typeby.com/fonts/haultin) - Beautiful Granjon
 * [Storge](https://bsky.app/profile/infonta.bsky.social/post/3mfr2squ5e22r) - Vera Evstafieva
 * [DTL Documenta](https://www.dutchtypelibrary.nl/Documenta_rdrct.html)
 * [Turnip](https://djr.com/turnip)
 * [Tempera Biblio](https://www.typotheque.com/fonts/tempera-biblio)
 * [Dialogue](https://www.zetafonts.com/dialogue) - Venetian, variable
+* [Delusse](https://commercialtype.com/catalog/delusse)
+* [Financier](https://klim.co.nz/fonts/financier-text/) - somewhat Perpetua-like; display and text sizes
 
 ### ALTERNATIVES TO HELVETICA
 
