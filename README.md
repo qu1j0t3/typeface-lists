@@ -276,6 +276,9 @@
 * [Dialogue](https://www.zetafonts.com/dialogue) - Venetian, variable
 * [Delusse](https://commercialtype.com/catalog/delusse)
 * [Financier](https://klim.co.nz/fonts/financier-text/) - somewhat Perpetua-like; display and text sizes
+* [Capitolium 2](https://www.type-together.com/capitolium-2-font)
+* [Deréon](https://typofonderie.com/fonts/dereon)
+
 
 ### ALTERNATIVES TO HELVETICA
 
