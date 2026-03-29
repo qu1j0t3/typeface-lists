@@ -337,6 +337,10 @@
 * [Muoto](https://www.205.tf/muoto)
 * [Nacelle](https://dotcolon.net/fonts/nacelle/) - free
 * [Elza](https://blackletra.com/typefaces/elza)
+* [Lab Grotesque](https://lettersfromsweden.se/font/lab-grotesque/)
+* [Grtsk](https://black-foundry.com/fonts/grtsk/) - variable including reverse oblique
+* [Colfax](https://processtypefoundry.com/fonts/colfax/) - geometric sans
+* [Host Grotesk](https://elementtype.co/host-grotesk/)
 
 ### MONOSPACE
 
@@ -363,6 +367,7 @@
 * [Spot Mono](https://www.schick-toikka.com/spot-mono) - lovely, rounded, attractive and friendshaped
 * [RT Dromo](https://www.rt-dromo.com/)
 * [Scribbletone Iso](https://www.scribbletone.com/typefaces/iso)
+* [Vulf Mono](https://ohnotype.co/fonts/vulf) - impressive italic, strong character
 
 ### UTILITY AND ENGINEERING/ENGRAVING
 
@@ -383,6 +388,7 @@
 * [Relief-SingleLine](https://github.com/isdat-type/Relief-SingleLine)
 * [Action Text](https://commercialtype.com/catalog/action_text)
 * [SN Minimal](https://skriftkompani.no/typefaces/minimal)
+* [Finder](https://black-foundry.com/fonts/finder/) - "for user interfaces"
 
 ### INFORMAL SCRIPTS
 
